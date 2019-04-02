@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rmt &#8211; AFK Gamer</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/tag/rmt/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Thu, 07 Aug 2014 11:49:50 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>Live Gamer</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2007/12/18/live-gamer/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2007/12/18/live-gamer/#comments</comments>
+				<pubDate>Tue, 18 Dec 2007 13:52:25 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[rmt]]></category>
+		<category><![CDATA[virtual currency]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/12/18/live-gamer/</guid>
+				<description><![CDATA[Live Gamer Inc, (www.livegamer.com) today announced its introduction as the premier provider of a publisher-supported, secure platform for real money trading of virtual property. Live Gamer is partnering with top massively multiplayer online game (MMOG) publishers and virtual world operators &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2007/12/18/live-gamer/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<blockquote><p>Live Gamer Inc, (www.livegamer.com) today announced its introduction as the premier provider of a publisher-supported, secure platform for real money trading of virtual property. Live Gamer is partnering with top massively multiplayer online game (MMOG) publishers and virtual world operators worldwide, including Funcom GMBH, Sony Online Entertainment, 10TACLE STUDIOS, Acclaim, GoPets LTD, and Ping0 Interactive Limited.</p></blockquote>
+<p>Interesting.  Very, very interesting.</p>
+<p>(The rest of the press release is entertaining reading &#8212; don&#8217;t miss it.  Those young go-getters with their unique mix of talents from Wall Street and gaming!  Their Wall Street-developed platform has GOT to be good!  And safe!)</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2007/12/18/live-gamer/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+							</item>
+	</channel>
+</rss>

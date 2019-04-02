@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>halloween &#8211; AFK Gamer</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/tag/halloween/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Thu, 07 Aug 2014 11:49:50 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>Boo</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2007/10/31/boo-2/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2007/10/31/boo-2/#comments</comments>
+				<pubDate>Wed, 31 Oct 2007 23:39:52 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[halloween]]></category>
+		<category><![CDATA[screenshots]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/10/31/boo-2/</guid>
+				<description><![CDATA[You kids be safe out there tonight. And if you must drink, invite a nerd along as a designated driver. Believe me, that&#8217;s win/win for everyone.]]></description>
+								<content:encoded><![CDATA[<p style="text-align: center;"><a href="http://www.flickr.com/photos/afkgamer/1728929211/" title="Photo Sharing" class="noborder"><img src="http://farm3.static.flickr.com/2072/1728929211_a27bc0d77d_m.jpg" width="240" height="150" alt="Sylvanaar Inn" class="border" /></a><a href="http://www.flickr.com/photos/afkgamer/1642879434/" title="Photo Sharing" class="noborder"><img src="http://farm3.static.flickr.com/2127/1642879434_318d8a6c5b_m.jpg" width="240" height="150" alt="Headless Horseman PuGs" class="border" /></a><br />
+<a href="http://www.flickr.com/photos/afkgamer/1728927633/" title="Photo Sharing" class="noborder"><img src="http://farm3.static.flickr.com/2373/1728927633_17cab20697_m.jpg" width="240" height="150" alt="Eversong Practice Fires" class="border" /></a><a href="http://www.flickr.com/photos/afkgamer/1729776338/" title="Photo Sharing" class="noborder"><img src="http://farm3.static.flickr.com/2036/1729776338_a557cf3c94_m.jpg" width="240" height="150" alt="Honor Hold Inn" class="border" /></a></p>
+<p>You kids be safe out there tonight.  And if you must drink, invite a nerd along as a designated driver.  Believe me, that&#8217;s win/win for everyone.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2007/10/31/boo-2/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+	</channel>
+</rss>

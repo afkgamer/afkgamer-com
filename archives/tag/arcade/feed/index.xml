@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>arcade &#8211; AFK Gamer</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/tag/arcade/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Thu, 07 Aug 2014 11:49:50 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>Home Use Arcade Machine</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2005/10/27/home-use-arcade-machine/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2005/10/27/home-use-arcade-machine/#comments</comments>
+				<pubDate>Thu, 27 Oct 2005 20:21:01 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[arcade]]></category>
+		<category><![CDATA[gaming]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2005/10/27/home-use-arcade-machine/</guid>
+				<description><![CDATA[Just in time for Christmas, from Target, the Midway Home Use Arcade Machine.]]></description>
+								<content:encoded><![CDATA[<p>Just in time for Christmas, from Target, the <a href="http://www.target.com/gp/detail.html/sr=1-3/qid=1130439264/ref=sr_1_3/602-0134770-3451831?_encoding=UTF8&#038;asin=B000AQHKR0">Midway Home Use Arcade Machine</a>.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2005/10/27/home-use-arcade-machine/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+	</channel>
+</rss>

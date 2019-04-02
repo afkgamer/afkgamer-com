@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lineage &#8211; AFK Gamer</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/tag/lineage/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Thu, 07 Aug 2014 11:49:50 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>Lineage Identity Thefts</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2006/02/21/lineage-identity-thefts/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2006/02/21/lineage-identity-thefts/#respond</comments>
+				<pubDate>Tue, 21 Feb 2006 13:39:51 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[farmers]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[lineage]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/02/21/lineage-identity-thefts/</guid>
+				<description><![CDATA[Approximately 220,000 Lineage accounts were created with stolen identities on the South Korean servers. The prime suspects? Chinese gamers and farmers. (Of course.) Read: Identity theft feeds $1bn gaming black market. The South Korean gamers aren&#8217;t taking that shit lying &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/02/21/lineage-identity-thefts/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Approximately 220,000 Lineage accounts were created with stolen identities on the South Korean servers.  The prime suspects?  Chinese gamers and farmers.  (Of course.)  Read: <a href="http://www.vnunet.com/vnunet/news/2150677/identity-theft-online-games">Identity theft feeds $1bn gaming black market</a>.  The South Korean gamers aren&#8217;t taking that shit lying down and are slaughtering the Chinese gamers in retaliation.  Read:  <a href="http://news.ft.com/cms/s/ba7904ca-a27e-11da-9096-0000779e2340.html">South Korean gamers stage online massacre of Chinese</a>.  I know what you&#8217;re thinking:  how long until this scam arrives in other games with huge farmer operations?  I dunno, maybe it&#8217;s already here.  (dun dun DUN!)  (More to read:  The AP report, <a href="http://www.post-gazette.com/pg/06052/658467.stm">In South Korea, an online game led to identity theft</a>.)</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2006/02/21/lineage-identity-thefts/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

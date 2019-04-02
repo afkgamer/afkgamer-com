@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>game design &#8211; AFK Gamer</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/tag/game_design/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Thu, 07 Aug 2014 11:49:50 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>And the Warlocks Wept</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2007/07/11/and-the-warlocks-wept/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2007/07/11/and-the-warlocks-wept/#comments</comments>
+				<pubDate>Wed, 11 Jul 2007 15:54:35 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[game design]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/07/11/and-the-warlocks-wept/</guid>
+				<description><![CDATA[If I still was a PVPing shadow priest, or if I had ever been a PVPing warlock, I would not be happy about this change at all: In the next major content patch, the combat rating, resilience, will also reduce &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2007/07/11/and-the-warlocks-wept/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>If I still was a PVPing shadow priest, or if I had ever been a PVPing warlock, I would not be happy about <a href="http://forums.worldofwarcraft.com/thread.html?topicId=174613179&#038;sid=1&#038;pageNo=1">this change</a> at all:</p>
+<blockquote><p>In the next major content patch, the combat rating, resilience, will also reduce the damage dealt by damage over time (DoT) effects. As it currently stands, each new tier of equipment adds to the amount of damage DoT abilities have, yet that damage is not mitigated through combat ratings found on typical equipment. This change will help ensure that DoT effects do not scale too well compared to other damage mechanics.</p>
+<p>The amount of damage reduced will be equal to the critical chance reduction effect that resilience grants.  Love, Eyonix</p></blockquote>
+<p>(I added the Love signature because that&#8217;s what the World of Warcraft needs now.)</p>
+<p>While the warlock and shadow priest tears sustain us, I&#8217;m wondering:  what can be done to revitalize a mature game?  </p>
+<p>Let&#8217;s be blunt, Warcraft PVE is aging like a president, and no matter how anyone spins the subscription numbers, players and guilds are losing interest.  PVP, for many players, is a pleasant diversion from the grindiness of PVE, and, I&#8217;d wager, fixing/changing/adding PVP is a helluva lot cheaper than any PVE changes.  I&#8217;d PVP more myself, but it&#8217;s too damn expensive to swap between a PVP and PVE talent spec every few days &#8212; not to mention the paperwork involved.</p>
+<p>I&#8217;m just thinking out loud in e-print, but this game needs something.  Well-spun subscription numbers aside, we can all see the attrition around us, and even though there&#8217;s lots of interesting ideas on how to energize this game &#8230; my opinion, Blizzard is too plodding and too stubborn to try those interesting ideas any time soon.  </p>
+<p>So choose your poison, Warcraft player:  PVP, Raiding PVE, Heroics x 1 billion, or the alt lifestyle.  It&#8217;s a long wait until the next expansion &#8230; or Warhammer Online.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2007/07/11/and-the-warlocks-wept/feed/</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+							</item>
+		<item>
+		<title>Week of Fives: Gaming Wishes</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2007/01/03/week-of-fives-gaming-wishes/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2007/01/03/week-of-fives-gaming-wishes/#comments</comments>
+				<pubDate>Thu, 04 Jan 2007 01:25:59 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[Noteworthy]]></category>
+		<category><![CDATA[game design]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[healers]]></category>
+		<category><![CDATA[quests]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/01/03/week-of-fives-gaming-wishes/</guid>
+				<description><![CDATA[A few years from now, maybe a few more, probably never, these are the top five things we&#8217;d like to see in online gaming, three from me, two from Raster: 1. Let&#8217;s rethink this whole healing gig. Personally, I&#8217;d like &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2007/01/03/week-of-fives-gaming-wishes/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>A few years from now, maybe a few more, probably never, these are the top five things we&#8217;d like to see in online gaming, three from me, two from Raster:</p>
+<p>1.  <strong>Let&#8217;s rethink this whole healing gig.</strong>  Personally, I&#8217;d like to see the primary healer role eliminated completely.  I realize there must be some people who enjoy the primary healer role, the pure defense character, but crimony, every goddamn game it&#8217;s the same issues &#8230; faster burnout, repetitive play, short supply, limited solo&#8217;ing options.  I&#8217;d like to see multi-player gaming either move to a model where every class has minimal healing/recovery abilities or, at least, something like Guild Wars with a primary/secondary class choice system.  I realize this would homogenize classes somewhat, but surely someone, somewhere, can figure out a better system than the current one.  (Foton)</p>
+<p>2.  <strong>Let&#8217;s rethink travel.</strong>  Guild Wars did this quite well and I&#8217;d love to see instant travel moved over to more games.  EverQuest provided portals to a majority of zones with the Planes of Power expansion, which was better than nothing.  Sixty minute hearthstones are not the answer, Blizzard.  Neither are slow ass griffins which usually take the longest possible route to get anywhere.  If I&#8217;m not in combat, I should be able to port myself to any major city on the continent, and there should also be an &#8220;express airlines&#8221; to cut down on unwanted travel time.  There are enough time sinks in games already, and travel needs to be done away with as one.  Don&#8217;t even get me started on bag space and inventory space &#8230;  (Raster)</p>
+<p>3.  <strong>Let&#8217;s rethink loot.</strong>  MMO loot is a lot of the fun of gaming, but it&#8217;s a lot of the pain as well.  Two things I&#8217;d like fixed:  randomness that bites you in the ass and worthless trash mobs.  There&#8217;s a few ways to fix the wonky randomness, maybe a self-correcting behind-the-scenes randomizer that just gives you the damn loot you&#8217;ve been farming for 290,348 hours; or, how about meaningful faction systems?  High-factioned players can just buy from NPC vendors what they didn&#8217;t loot.  (Similar to EverQuest&#8217;s Lost Dungeons of Norrath and Warcraft&#8217;s Blood Elf Ghostlands area &#8212; an idea I LOVED in the beta, by the way.)  And trash mobs, either they should drop useable items or equipment FAR more often, or once a group or raid of players have bested a dungeon, they should never have to clear the trash again.  I know that&#8217;s unreasonable, but goddamn, I hate trash &#8212; there&#8217;s got to be more interesting, or less annoying, barriers to boss fights.  (Foton)</p>
+<p>4.  <strong>Let&#8217;s rethink play styles.</strong>  I don&#8217;t care if a game is classified as Massively Multiplayer, sometimes I just want to solo or do something with a friend.  Forced grouping to get any worthwhile equipment is ridiculous.  Raiding especially is a chore &#8212; with EQ forcing 72 people to show up (later 48) and WoW going the 40 man route (25 in the expansion).  Add in PvP, and the gear difference from raiders and non raiders is just magnified.  Please don&#8217;t take this as me advocating people should just be able to go kill some random easy monster and get the best gear in the game, I don&#8217;t.  I just feel every style of play should be offered worthwhile rewards (no, reputation grinding to be able to purchase maybe one or two decent things does not count) and there may be hope on the horizon.  The Burning Crusade promises much 5 and 10 man content with ample rewards, here&#8217;s to hoping.  (Raster)</p>
+<p>5.  <strong>Let&#8217;s rethink play sessions.</strong>  Sometimes I wonder if what we really need in MMO gaming is a pause button.  Those of us with discretionary income have jobs, and families and mortagages and other obligations &#8230; we need fast travel and fast recoveries and fast groups and fast fun.  The days of multi-hour LFGs and multi-hour experience groups and multi-hour corpse runs are over.  I&#8217;d like to see better chunking of the content into shorter play sessions.  Quests are ideal for that, of course, but we need raid content with easy entry and exit points.  I think two hours or so should be the most time required to complete an instance.  Add in group/raid formation, travel time, yap yap about loot time and that&#8217;s a solid three hours.  Naturally, the first few times attempting a dungeon/instance will add to that, which is fine.  Games shouldn&#8217;t require lenghthy time commitments to accomplish something.  (Ya, SHOULDN&#8217;T.)  (Foton)</p>
+<p>Thursday, Five Assholes from 2006 We Want to Remember FOREVER.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2007/01/03/week-of-fives-gaming-wishes/feed/</wfw:commentRss>
+		<slash:comments>20</slash:comments>
+							</item>
+		<item>
+		<title>Week of Fives:  World of Warcraft Excellence</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2007/01/02/week-of-fives-world-of-warcraft-excellence/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2007/01/02/week-of-fives-world-of-warcraft-excellence/#comments</comments>
+				<pubDate>Tue, 02 Jan 2007 23:18:59 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[Noteworthy]]></category>
+		<category><![CDATA[game design]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[quests]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/01/02/week-of-fives-world-of-warcraft-excellence/</guid>
+				<description><![CDATA[This week is AFK Gamer&#8217;s annual look back at Ye Olde Year, 2006 &#8211;The Week of Fives. Today, Five Things that World of Warcraft Does Really Well. I spend most of the blog space discussing the stupid and absurd of &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2007/01/02/week-of-fives-world-of-warcraft-excellence/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>This week is AFK Gamer&#8217;s annual look back at Ye Olde Year, 2006 &#8211;The Week of Fives.</p>
+<p>Today, Five Things that World of Warcraft Does Really Well.  </p>
+<p>I spend most of the blog space discussing the stupid and absurd of World of Warcraft, both the game and the players.  That&#8217;s not the entire story, of course.  There&#8217;s alot about World of Warcraft, and its players, that&#8217;s wonderful.  Here&#8217;s our top five &#8212; three from me, and two from Raster.</p>
+<p>1.  <strong>The music and the sounds.</strong>  I mentioned a while ago that I haven&#8217;t played with music or sound in World of Warcraft since December 2004.  Since I wrote that, I&#8217;ve made an effort to turn on the music and sounds when I&#8217;m solo&#8217;ing and not in the guild&#8217;s Ventrilo.  I have to say, it&#8217;s as immersive and rich as I remembered.  The swoosh of the stealthed rogues in the PVP battlegrounds, the &#8220;To Arms!&#8221; music when riding into Ironforge or Orgrimmar, the heightened suspense in Duskwood, the booming NPC taunts in Blackwing Lair &#8230; all superbly done.  And until I was driven to madness by the mournful cello music of the Burning Crusade&#8217;s Blood Elf noob area, I thought it was beautiful.  (Foton)</p>
+<p>2.  <strong>The noob levels.</strong>  WoW does an excellent job introducing newer players to the game.  Plentiful spawn areas full of beasts which are not aggro and extremely fast repop help get the initial levels down in no time.  Mobs also drop starter gear for all classes and the quests in the area give you just enough money to buy all of your newly trained abilities as well as some slightly higher quality equipment.  The quests are relatively easy and teach you the basics of your characters abilities, preparing you for the major area of the game.  It&#8217;s not difficult to get to level 10 in an hour or two, removing some of the tedium especially if it&#8217;s not the first character you&#8217;re leveling.  Alliance are also treated to their first &#8220;epic&#8221; dungeon, the Deadmines, around level 20, giving you a nice taste of things to come. (Raster)</p>
+<p>3.  <strong>The sly humor.</strong>  This, more than any other aspect of WoW, proves that once upon a time, designers, writers, artists loved this game.  Well, I&#8217;m sure they still do, but some day, the cash cow may become just a cow and there won&#8217;t be much time (or budget) to lovingly craft anything.  Back to the now, I&#8217;ve always appreciated and enjoyed Warcraft&#8217;s sly humor &#8230; no one has ever done it better.  The pop culture references, the play on words, Madonna on the loading screen (goddamit, I know that&#8217;s her!), even the corny, all of it so cleverly done &#8212; Warcraft is without peer on this.  (Foton)</p>
+<p>4. <strong>The quest system.</strong>  Rather than follow in EverQuest&#8217;s footsteps, WoW made the quests in game an essential part of the game and leveling process.  In EQ, quests were usually tedious and the only reward was some item you would receive.  There was very little in the way of experience or money rewards, and most of the rewards made you want to throw a brick through your monitor.  WoW made quests integral to leveling to 60 and to obtain decent gear along the way.  Quests are plentiful and give large experience rewards upon completion, making it much quicker to get to 60 than previous games.  Each zone is populated with any number of quests based upon the in-game lore, and after exhausting them, you were sent off to the next one.  Most newer players appreciate the streamlined and relatively easy curve to 60 and I&#8217;m sure it&#8217;s a large part of WoW&#8217;s success.  Well done Blizzard.  (Raster)</p>
+<p>5.  <strong>The fluff.</strong>  I haven&#8217;t written, directly, about Warcraft&#8217;s fluff in almost two years, but I&#8217;ve been enjoying it all along.  (<a href="https://afkgamer.github.io/afkgamer-com/archives/2005/01/13/we-need-more-fluffers/">Fluff</a>)  There&#8217;s a lot of fluff and nonsense (the fun nonsense, not the nerf nonsense) in Warcraft and in many ways, we as players work harder for the fluff than the daily gaming basics &#8212; because we want to, not because we have to.  We&#8217;re talking non-combat pets, enchant glows (the enchants could just add stats, but oh so much better that they have a glow), the additional game events, the quest rewards with an illusion effect, and hundreds of others.  I don&#8217;t know if there&#8217;s one guy at Blizzard in charge of game fluff or an entire team.  Either way, he/they have the best job in the whole organization.  (Foton)</p>
+<p>Wednesday, Five Things We Wish for Future Games.</p>
+<h3>See Also</h3>
+<p>2005&#8217;s Week of Fives:  <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/01/03/week-of-fives-day-one/">Day One</a>, <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/01/04/week-of-fives-day-two/">Day Two</a>, <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/01/05/week-of-fives-day-three/">Day Three</a>, <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/01/06/my-five-favorite-gaming-moments-of-2005/">The Finale</a></p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2007/01/02/week-of-fives-world-of-warcraft-excellence/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+		<item>
+		<title>Improving Televised Gaming</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2006/04/18/improving-televised-gaming/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2006/04/18/improving-televised-gaming/#comments</comments>
+				<pubDate>Tue, 18 Apr 2006 13:53:26 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[game design]]></category>
+		<category><![CDATA[gaming]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/04/18/improving-televised-gaming/</guid>
+				<description><![CDATA[USA Network and Major League Gaming recently announced a deal to televise the pro circuit in the fall. I&#8217;m not sure I want to watch other people play games &#8212; wouldn&#8217;t I rather play myself? Ya, think I would &#8212; &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/04/18/improving-televised-gaming/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p><a href="http://www.msnbc.msn.com/id/12353167/">USA Network and Major League Gaming recently announced a deal</a> to televise the pro circuit in the fall.  I&#8217;m not sure I want to watch other people play games &#8212; wouldn&#8217;t I rather play myself?  Ya, think I would &#8212; but one thing that would vastly improve televised gaming:  Gambling.  They work something out with Vegas or &#8230; people that are more local &#8230; I&#8217;m on board.  Which brings me to my latest idea for the MMOG raiding:  Gambling.  I&#8217;d like to see sanctioned in-game gambling on guilds and their scheduled raid targets for the night.  Sure, there&#8217;s a lot of administration involved, setting odds and policing the whole operation for point shaving, etc., but this would be wildly popular.  Some game adds in this feature, I&#8217;d be logging in EVERY NIGHT to get in on the action.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2006/04/18/improving-televised-gaming/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+							</item>
+		<item>
+		<title>Let&#8217;s Get Head Instead</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2006/01/16/lets-get-head-instead/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2006/01/16/lets-get-head-instead/#comments</comments>
+				<pubDate>Mon, 16 Jan 2006 16:28:28 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[game design]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/01/16/lets-get-head-instead/</guid>
+				<description><![CDATA[Some food for thought on the World of Warcraft endgame and the raid progressions, go chew on this (from the forums) &#8212; &#8220;Caydiem, how is ZG (Zul&#8217;Grub) a &#8216;stepping stone&#8217; &#8230; &#8220; The thread author, Kindjal of Medivh, wrote: &#8230;when &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/01/16/lets-get-head-instead/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Some food for thought on the World of Warcraft endgame and the raid progressions, go chew on this (from the forums) &#8212; <a href="http://forums.worldofwarcraft.com/thread.aspx?fn=wow-general&#038;t=6558979">&#8220;Caydiem, how is ZG (Zul&#8217;Grub) a &#8216;stepping stone&#8217; &#8230; &#8220;</a></p>
+<p>The thread author, Kindjal of Medivh, wrote:</p>
+<blockquote><p>&#8230;when many would agree that it&#8217;s more challenging than Molten Core (with the exception of the Hakkar fight)?</p>
+<p>***</p>
+<p>Q u o t e:    Patch 1.7: Zul&#8217;Gurub (raid content, but not nearly as &#8220;hardcore&#8221; as Blackwing Lair; targetted as a challenge for the more casual 60 and as a stepping stone from UBRS to MC)</p>
+<p>***</p>
+<p>Was it simply that the devs didn&#8217;t playtest ZG enough, or what? I for one think ZG is a more challenging (with less rewards) instance than MC, as has been stated by many.</p></blockquote>
+<p>Reply #5, Caydiem responded:</p>
+<blockquote><p>It&#8217;s a challenge, yes, as I mentioned. It&#8217;s a &#8220;stepping stone&#8221; in the number of people needed, and the idea that there are some difficult fights in higher-end raid dungeons that require such specific strategies.</p>
+<p>And the bosses within do have varying difficulties overall, as well. For example, you may not be able to kill Jin&#8217;do, but you might be able to handle Venoxis and Bloodlord Mandokir.</p></blockquote>
+<p>And the players just tee off on that.  As well they should &#8212; that zone is trash:  too many trash mobs, too much trash loot masquerading as boss drops.</p>
+<p>There&#8217;s only one way that my guild can get me to show up at a ZG raid and that&#8217;s by tricking me:  Call an Onyxia run, &#8220;hell ya, let&#8217;s get some head!  I&#8217;ll be there early!!&#8221;, then switch the call to ZG.  Even then, odds are I&#8217;ll fake an <acronym title="link dead">LD</acronym>.</p>
+<p>There are two possible solutions to the Zul&#8217;Grub problem:  shutter that pisshole with a &#8220;Closed for Remodeling&#8221; sign or nuke it off the face of the map.  </p>
+<p>Hours of work so that a couple of raidmembers (or less) can MAYBE get an equippable item or quest items is horseshit.</p>
+<p>(As with all Warcraft forum links, the thread will expire and disappear into the Internet Trash Bin. READ IT NOW.)</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2006/01/16/lets-get-head-instead/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+		<item>
+		<title>How to Create your own Game Company</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2005/11/30/how-to-create-your-own-game-company/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2005/11/30/how-to-create-your-own-game-company/#comments</comments>
+				<pubDate>Wed, 30 Nov 2005 13:17:53 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[game design]]></category>
+		<category><![CDATA[gaming]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2005/11/30/how-to-create-your-own-game-company/</guid>
+				<description><![CDATA[How to Create your own Game Company by Download Squad of the e-giant Weblogs, Inc. Network. Part I covers the tools available for the engine and the graphics (yawn); future installments will cover development and ummm, other stuff. You will &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2005/11/30/how-to-create-your-own-game-company/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p><a href="http://www.downloadsquad.com/2005/11/28/how-to-create-your-own-game-company-part-one/">How to Create your own Game Company</a> by Download Squad of the e-giant Weblogs, Inc. Network.  Part I covers the tools available for the engine and the graphics (yawn); future installments will cover development and ummm, other stuff.  You will not see &#8220;getting rich quick&#8221; anywhere in there.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2005/11/30/how-to-create-your-own-game-company/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+		<item>
+		<title>More colleges offer gaming theory courses</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2005/09/24/more-colleges-offer-gaming-theory-courses/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2005/09/24/more-colleges-offer-gaming-theory-courses/#respond</comments>
+				<pubDate>Sat, 24 Sep 2005 15:52:14 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[game design]]></category>
+		<category><![CDATA[gaming]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2005/09/24/more-colleges-offer-gaming-theory-courses/</guid>
+				<description><![CDATA[CNN.com &#8211; More colleges offer gaming theory courses &#8212; Two catches that I can see with getting your degree in game theory or design: 1. you cannot convert your playing time to college credit and 2. YOU WILL HAVE TO &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2005/09/24/more-colleges-offer-gaming-theory-courses/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p><a href="http://www.cnn.com/2005/TECH/fun.games/09/23/video.game.u.ap/index.html">CNN.com &#8211; More colleges offer gaming theory courses</a> &#8212; Two catches that I can see with getting your degree in game theory or design:  1.  you cannot convert your playing time to college credit and 2.  YOU WILL HAVE TO GRADUATE.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2005/09/24/more-colleges-offer-gaming-theory-courses/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Career Changes</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2005/09/22/career-changes/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2005/09/22/career-changes/#comments</comments>
+				<pubDate>Fri, 23 Sep 2005 00:48:33 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[Noteworthy]]></category>
+		<category><![CDATA[game design]]></category>
+		<category><![CDATA[gaming]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/?p=623</guid>
+				<description><![CDATA[Here&#8217;s how I&#8217;ve seen it. A new game goes live, everyone rushes in, and we all pick the class that either sounds good or that we&#8217;ve typically enjoyed in other games. Bottom line, this means there&#8217;s a whole lot of &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2005/09/22/career-changes/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Here&#8217;s how I&#8217;ve seen it.</p>
+<p>A new game goes live, everyone rushes in, and we all pick the class that either sounds good or that we&#8217;ve typically enjoyed in other games.  Bottom line, this means there&#8217;s a whole lot of rangers/hunters, monks/martial artist-types, rogues, paladins (unless the word is out that they are the suck beyond suck), wizards/mages and necromancers/warlocks/the life suckers.</p>
+<p>Everybody likes to do big damage and everybody likes to keep their solo&#8217;ing options open.  There&#8217;s always a few diehards that choose warriors or priests/clerics/doctors/whateverthehell they call the badass healers in the game.  I mean, they choose tank or healer because they WANT to play that class.  *boggle*  The game may be tuned so that tanks and healers can solo, but CMON, a defense class takes longer to kill stuff because that&#8217;s the way of the world, ERGO, the tanks and healers take longer to max out.</p>
+<p>Naturally, there&#8217;s situations where a guild will &#8230; let&#8217;s say, encourage &#8230; some of its members to make tanks and healers in the new game, but for the most part, in the initial rush of the new game, most of us are choosing the hardcore <acronym title="Damage Per Second, i.e. they do a lot of it and fast.">DPS</acronym> or solo classes.</p>
+<p>We all race through the levels and the zones, sometimes there&#8217;s a few bad levels when the living isn&#8217;t so easy anymore, but most will work through the rough levels to arrive at better skills, better equipment and better spells.</p>
+<p>A week or three after the first max levels start appearing in game, it&#8217;s reality time.  For a myriad of reasons, we&#8217;ll <strong>have</strong> to group up to advance further:  either the best spells or equipment are hidden away in group/raid dungeons, tougher quests require a group or more, the mobs start hitting like a truck or AE&#8217;ing the shit out of anyone that approaches, or, in a PVP situation, players need to group for everyone&#8217;s mutual protection, e t c.</p>
+<p>Enter the first wave of the character remakes.  Some will recognize the necessity earlier than others, some later &#8212; we all arrive at the same realization that we&#8217;re going to need more tanks and A LOT more healers.  Deja vu is never so bitter than at this point.</p>
+<p><span id="more-623"></span>If the player is an experienced sort, he/she/it has some decisions to make.  1.  Will he/she remake as a healer or tank?  The sooner there&#8217;s more volunteers to take one for the team, so to speak, the faster the tank/healer drought will be over, and 2. Is he/she going to stick around for very long in this game, because frankly, he/she might want to buy a 2nd account to house the healer:  the 2-box and powerlevel possibilities, the healer can be whored out to the guild later on, can be used as a buff and heal bot for later waves of remakes.</p>
+<p>(Hey, it was just a thought!  I don&#8217;t make up the rules, I don&#8217;t design the endgames, I just live in &#8217;em.)</p>
+<p>Few more weeks pass, more tanks and healers arrive on the scene to end the drought and the game moves on.</p>
+<p>Enter the first wave of major class balancing &#8212; y&#8217;know, a reshuffling of which are the god classes and which are the pity classes via the wonders of nerfs and buffs.  After the initial wailing and gnashing of teeth, the second wave of character remakes begins in earnest &#8212; The DPS Remakes.  (Recall the EverQuest post-Kunark monk/rogue remakes &#8230; Fungi Tunics everywhere, not a competent feign puller to be found.  Crimony.)</p>
+<p>Players in a guild will again be (ahem) encouraged to remake as the new DPS gods; the unguilded masses may decide they can solo further into the game and/or find groups easier as one of the new DPS gods.</p>
+<p>And so it goes.  Tuning and balancing of the classes is shortly followed by waves of remakes.  Game expansions bring new zones with different challenges, new monsters with higher DPS and more wicked AE&#8217;s &#8212; hopefully there&#8217;s new character spells and skills to deal with the new challenges &#8212; all of which spawns yet another wave of remakes.  Maybe if the game is far enough along, players already HAVE the new &#8220;chosen&#8221; class at max level and can just dust it off and continue their way through the new content.</p>
+<p>But probably not.  There&#8217;s only so many hours in a day.</p>
+<p>It&#8217;s not that I always have to be the DPS god class or have 89 healers on every raid, there is fun to be had without such luxuries.  But when the nerf bat swings around and lobotomizes my chosen class and what was once doable is now not possible, kinda sucks the fun out of it.  Having to hold two (or 3 or 4) more raid slots for healers means two (or 3, 4) other players won&#8217;t be joining us &#8212; that&#8217;s not much fun either.</p>
+<p>Eventually, we all gotta do what we gotta do to make it in the virtual world &#8212; the raid guilds have mouths to feed, the casual guilds and soloers have loot wants and needs, too.  Sometimes that means a career change for the character.  Like with a real life job.</p>
+<p>What?  You thought this was a game?  </p>
+<p>Tsk, tsk.  You haven&#8217;t been paying attention.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2005/09/22/career-changes/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+							</item>
+		<item>
+		<title>Five Gaming Dealbreakers</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2005/09/15/five-gaming-dealbreakers/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2005/09/15/five-gaming-dealbreakers/#comments</comments>
+				<pubDate>Fri, 16 Sep 2005 02:51:00 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Developer Memos]]></category>
+		<category><![CDATA[Noteworthy]]></category>
+		<category><![CDATA[game design]]></category>
+		<category><![CDATA[gaming]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/?p=607</guid>
+				<description><![CDATA[My short list of game dealbreakers, those &#8220;features&#8221;, quirks, bugs, (ahem) design choices which will send me to the logout screen on DAY ONE and I&#8217;m not looking back. 1. Gross server problems. (well duh) I&#8217;ll allow a few weeks &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2005/09/15/five-gaming-dealbreakers/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>My short list of game dealbreakers, those &#8220;features&#8221;, quirks, bugs, (ahem) design choices which will send me to the logout screen on DAY ONE and I&#8217;m not looking back.</p>
+<p>1.  <strong>Gross server problems.</strong>  (well duh)  I&#8217;ll allow a few weeks for the proverbial shit to be gotten together with a new release, but repeated server crashes, freeze frame lag in crowded areas, the hated rollbacks, frequent or excessively long login queues, corrupted databases &#8230; all no good.</p>
+<p>2.  <strong>Stupid character movement design.</strong>  No, I&#8217;m not going to click on the ground to move my toon around and I&#8217;m not using the W, A, D, etc. keys.  I want to use my arrow keys and hold down the mouse buttons.  The End.  Those are the only choices.  Oh ya, I also <del>want</del> need an autorun option.  </p>
+<p>3.  <strong>Customizable key bindings.</strong>  Somewhat related to #2, but frankly the default movement keys should be the arrows and the mouse buttons.  The End.  Mess with that, and I promise, I&#8217;m out.  Anyways, back to key bindings:  there are so many variables and choices here, I will need to customize.  I&#8217;m used to the autoattack as &#8220;A&#8221; or &#8220;1&#8221;.  (Yes, I died many times in EQ talking to Quest NPCs when I&#8217;d accidentally attack them.  So??)  I don&#8217;t want to use F1, long reach from the home row on the keyboard, donchaknow.  In fact, just to put an end to the madness, offer a choice of key binding sets:  EQ, WoW, and whatever else.  Problem solved.</p>
+<p>Also:  don&#8217;t forget to add a Hail key binding.  It&#8217;s sentimental for a lot of us hags.  No, I don&#8217;t want to macro it and I don&#8217;t want to install a Hail mod for crissakes.</p>
+<p>4.  <strong>Ground speed increase.</strong>  No matter how a game is tuned between amount of land and character movement speed, we will want to go faster.  We are humans after all &#8212; more is better, faster is better.  This could be in the form of traditional transportation (mounts, bikes, cars), spells (the much beloved EQ Spirit of Wolf) or earned/purchased talent or ability.  I can wait a few levels to get this increased speed, but each level of delay is a nuisance.  </p>
+<p>5.  <strong>Too few spawns in noob areas.</strong>  Actually, if there&#8217;s too few spawns in the big level areas, I&#8217;ll hate the game too, but it will take at least a few days to discover this.  Probably the first few weeks after release, additional noob monsters should be available but I realize that&#8217;s Advanced Game Polishing 502.  I&#8217;ll tell you what too few spawns says to me:  it says &#8220;We didn&#8217;t finish the game, but thanks for buying it anyways, loser!&#8221;  See?  The game and I are starting off on the wrong foot already.  That never turns out well.</p>
+<p><strong>Also rans</strong> (I&#8217;ll stick around in the game, but it&#8217;s not love):</p>
+<p>Jump &#8212; one of the commenters here (forget who) wrote that having a jump ability was a dealbreaker for him.  I&#8217;m warming up to that idea, especially as I&#8217;ve noted that without jump, moving around the game is like running a rat maze.</p>
+<p>Killable Quest NPCs &#8212; if an NPC sends me out for hours of work and rewards my effort with a lameass item or only a few coins, I want to kill him/her/it.  If I can&#8217;t kill him/her/it yet, I want to return later and exact my revenge.  </p>
+<p>(You probably could see this one coming) An AFK and /anon system &#8212; we gaming celebrities need some sort of system to fend off the adoring masses.  /anonymous takes care of the would-be stalkers and /afk turns away the beggars and other undesirables.  The /afk needs to autoreply with the AFK status, too.  Man, nothing more annoying than some zealous fan who gets increasingly shrill because they think I&#8217;m intentionally ignoring their tells.</p>
+<p>Well, I AM ignoring their tells, but I don&#8217;t want them to know that.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2005/09/15/five-gaming-dealbreakers/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+							</item>
+		<item>
+		<title>Five Ways to Save Video Games</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2005/09/13/five-ways-to-save-video-games/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2005/09/13/five-ways-to-save-video-games/#respond</comments>
+				<pubDate>Tue, 13 Sep 2005 16:44:32 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[game design]]></category>
+		<category><![CDATA[gaming]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2005/09/13/five-ways-to-save-video-games/</guid>
+				<description><![CDATA[Five Ways to Save Video Games on Games.net &#8212; (I can think of one way to save gaming sites: Just Say No to forced ad delivery. Jesus.) 5 ways to save video games, including: Your Storylines Suck&#8211;Get New Ones. So &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2005/09/13/five-ways-to-save-video-games/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p><a href="http://www.games.net/features/104208.shtml">Five Ways to Save Video Games on Games.net</a> &#8212; (I can think of one way to save gaming sites:  Just Say No to forced ad delivery.  Jesus.)  5 ways to save video games, including:  Your Storylines Suck&#8211;Get New Ones.  So true.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2005/09/13/five-ways-to-save-video-games/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

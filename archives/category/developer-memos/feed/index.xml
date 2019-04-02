@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Developer Memos &#8211; AFK Gamer</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/category/developer-memos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Thu, 07 Aug 2014 11:49:50 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>Five Gaming Dealbreakers</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2005/09/15/five-gaming-dealbreakers/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2005/09/15/five-gaming-dealbreakers/#comments</comments>
+				<pubDate>Fri, 16 Sep 2005 02:51:00 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Developer Memos]]></category>
+		<category><![CDATA[Noteworthy]]></category>
+		<category><![CDATA[game design]]></category>
+		<category><![CDATA[gaming]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/?p=607</guid>
+				<description><![CDATA[My short list of game dealbreakers, those &#8220;features&#8221;, quirks, bugs, (ahem) design choices which will send me to the logout screen on DAY ONE and I&#8217;m not looking back. 1. Gross server problems. (well duh) I&#8217;ll allow a few weeks &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2005/09/15/five-gaming-dealbreakers/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>My short list of game dealbreakers, those &#8220;features&#8221;, quirks, bugs, (ahem) design choices which will send me to the logout screen on DAY ONE and I&#8217;m not looking back.</p>
+<p>1.  <strong>Gross server problems.</strong>  (well duh)  I&#8217;ll allow a few weeks for the proverbial shit to be gotten together with a new release, but repeated server crashes, freeze frame lag in crowded areas, the hated rollbacks, frequent or excessively long login queues, corrupted databases &#8230; all no good.</p>
+<p>2.  <strong>Stupid character movement design.</strong>  No, I&#8217;m not going to click on the ground to move my toon around and I&#8217;m not using the W, A, D, etc. keys.  I want to use my arrow keys and hold down the mouse buttons.  The End.  Those are the only choices.  Oh ya, I also <del>want</del> need an autorun option.  </p>
+<p>3.  <strong>Customizable key bindings.</strong>  Somewhat related to #2, but frankly the default movement keys should be the arrows and the mouse buttons.  The End.  Mess with that, and I promise, I&#8217;m out.  Anyways, back to key bindings:  there are so many variables and choices here, I will need to customize.  I&#8217;m used to the autoattack as &#8220;A&#8221; or &#8220;1&#8221;.  (Yes, I died many times in EQ talking to Quest NPCs when I&#8217;d accidentally attack them.  So??)  I don&#8217;t want to use F1, long reach from the home row on the keyboard, donchaknow.  In fact, just to put an end to the madness, offer a choice of key binding sets:  EQ, WoW, and whatever else.  Problem solved.</p>
+<p>Also:  don&#8217;t forget to add a Hail key binding.  It&#8217;s sentimental for a lot of us hags.  No, I don&#8217;t want to macro it and I don&#8217;t want to install a Hail mod for crissakes.</p>
+<p>4.  <strong>Ground speed increase.</strong>  No matter how a game is tuned between amount of land and character movement speed, we will want to go faster.  We are humans after all &#8212; more is better, faster is better.  This could be in the form of traditional transportation (mounts, bikes, cars), spells (the much beloved EQ Spirit of Wolf) or earned/purchased talent or ability.  I can wait a few levels to get this increased speed, but each level of delay is a nuisance.  </p>
+<p>5.  <strong>Too few spawns in noob areas.</strong>  Actually, if there&#8217;s too few spawns in the big level areas, I&#8217;ll hate the game too, but it will take at least a few days to discover this.  Probably the first few weeks after release, additional noob monsters should be available but I realize that&#8217;s Advanced Game Polishing 502.  I&#8217;ll tell you what too few spawns says to me:  it says &#8220;We didn&#8217;t finish the game, but thanks for buying it anyways, loser!&#8221;  See?  The game and I are starting off on the wrong foot already.  That never turns out well.</p>
+<p><strong>Also rans</strong> (I&#8217;ll stick around in the game, but it&#8217;s not love):</p>
+<p>Jump &#8212; one of the commenters here (forget who) wrote that having a jump ability was a dealbreaker for him.  I&#8217;m warming up to that idea, especially as I&#8217;ve noted that without jump, moving around the game is like running a rat maze.</p>
+<p>Killable Quest NPCs &#8212; if an NPC sends me out for hours of work and rewards my effort with a lameass item or only a few coins, I want to kill him/her/it.  If I can&#8217;t kill him/her/it yet, I want to return later and exact my revenge.  </p>
+<p>(You probably could see this one coming) An AFK and /anon system &#8212; we gaming celebrities need some sort of system to fend off the adoring masses.  /anonymous takes care of the would-be stalkers and /afk turns away the beggars and other undesirables.  The /afk needs to autoreply with the AFK status, too.  Man, nothing more annoying than some zealous fan who gets increasingly shrill because they think I&#8217;m intentionally ignoring their tells.</p>
+<p>Well, I AM ignoring their tells, but I don&#8217;t want them to know that.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2005/09/15/five-gaming-dealbreakers/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+							</item>
+		<item>
+		<title>Developer Memos: #3 Customer Service</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2004/11/04/developer-memos-3-customer-service/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2004/11/04/developer-memos-3-customer-service/#comments</comments>
+				<pubDate>Thu, 04 Nov 2004 15:22:38 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Developer Memos]]></category>
+		<category><![CDATA[Noteworthy]]></category>
+		<category><![CDATA[game design]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2004/11/04/developer-memos-3-customer-service/</guid>
+				<description><![CDATA[I haven&#8217;t written a Developer Memo for quite a while; I had intended it to be a series when I first hatched my evil scheme, but I got sidetracked by &#8230; I&#8217;m not sure what. Maybe blackouts. Or displaced SWG &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2004/11/04/developer-memos-3-customer-service/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>I haven&#8217;t written a Developer Memo for quite a while; I had intended it to be a series when I first hatched my evil scheme, but I got sidetracked by &#8230; I&#8217;m not sure what.  Maybe blackouts.  Or displaced SWG rage.  Who knows.</p>
+<p>Before I get too deep into illegally using my e-friend&#8217;s Warcraft info, I&#8217;ll do another.  This time focusing on Customer Service and Support in MMOGs, it seems important to write this before I experience WoW&#8217;s CS system firsthand.  Because I&#8217;m sure it&#8217;s the best ever, since Blizzard is god.</p>
+<p>Ya.  Moving on&#8230;</p>
+<p><span id="more-117"></span>I&#8217;m not sure I&#8217;ve ever experienced a &#8220;good&#8221; CS system in a MMOG.  I&#8217;ve certainly experienced bad ones; evil ones, to be sure.  It could be that well-designed games (read:  don&#8217;t annoy the shit out of me and don&#8217;t steal items, experience or time from me) don&#8217;t have much need for a CS system.</p>
+<p>There&#8217;s the first suggestion:  make sure the game won&#8217;t regularly steal items, experience or time.  Less complaints = less payroll needed to deal with really, really, really pissed-off catassers.</p>
+<p>Next, I think treating the customers and service volunteers like criminals is a very bad idea.  I&#8217;ll agree that 99 percent of the players are raging rectums, but they are not cheats.  When I complain that the demon game ate a backpack of uber poison-wheat-fangs, I don&#8217;t want to hear:  Sorry to hear that, friend, alas there is nothing I can do, but happy travels to you!</p>
+<p>Either the game needs a solid item tracking system, or you&#8217;re going to have to rely on the honor system with the players.  Your choice.</p>
+<p>Presuming me a cheat on the rare occasions I complain makes the game less about me versus the monsters and more about me versus you.  </p>
+<p>That&#8217;s not good.  </p>
+<p>You might need help someday with finding game-breaking exploits or the major-league cheaters; trust me on this, if I&#8217;ve been treated as the enemy, you can find your own game breakers.  If I&#8217;ve been given a straight deal, you&#8217;ll receive the same in kind.  </p>
+<p>Lastly, I&#8217;m not sure what brain trust originally thought that MMOG customer service didn&#8217;t necessarily have to be in-game, or fluent with the native tongue of its customer base, or at least minimally familiar with its game mechanics &#8230; but I have my suspicions.  </p>
+<p>Form letters and bot answers I can get from the knowledge base.  (Which, by the way, I have never found useful, but it makes a good stalling technique for an over-loaded CS system.)  </p>
+<p>If you can&#8217;t afford people to be in-game, fluent and game-knowledgable, you&#8217;re going to have to pass out a lot of item, experience and death refunds.  You might as well just code the demon game to issue these types of refunds on demand.  </p>
+<p>Or here&#8217;s an idea:  a help system that clearly states, &#8220;If you should erroneously lose items, experience or time due to a problem with game mechanics,  please email the details (date, character name, lost items, zone of incident, desired corrective action) to *CS-email* and we will put the situation right within X days.&#8221;</p>
+<p>Ya.  WTF am I smoking?</p>
+<p>Next week:  I used to be volunteer customer support.  Think Project Mayhem.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2004/11/04/developer-memos-3-customer-service/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+		<item>
+		<title>Developer Memos:  #2 Travel Systems</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2004/08/20/developer-memos-2-travel-systems/</link>
+				<pubDate>Fri, 20 Aug 2004 15:14:17 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Developer Memos]]></category>
+		<category><![CDATA[Noteworthy]]></category>
+		<category><![CDATA[game design]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2004/08/20/developer-memos-2-travel-systems/</guid>
+				<description><![CDATA[I&#8217;d think it would be obvious &#8230; no NORMAL person wants to spend their precious gaming time waiting in line to travel. In real life, I spend a good deal of time waiting as it is, why, in the name &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2004/08/20/developer-memos-2-travel-systems/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>I&#8217;d think it would be obvious &#8230; no NORMAL person wants to spend their precious gaming time waiting in line to travel.  In real life, I spend a good deal of time waiting as it is, why, in the name of all that is holy, would I PAY to wait?<span class="fullpost"></p>
+<p>Prime example, Star Wars: Galaxies, where, until the most recent patch, players had to wait up to ten minutes to travel to another planet.  Plus, up to another five minutes if they needed to travel across the planet by shuttle (intraplanetary travel).  Post-patch, the interplanetary starports are five minutes:  an improvement but still annoys the piss out of me.  And by that, I mean I actually use that time to go piss and get a drink.</p>
+<p>Why not instant travel?  I&#8217;ve already taken the time to run my ass over to your stupid starport travel area, I paid my pretend money for a ticket, send me now where I want to go.  And if this is a server load issue, then how bout EXPLAINING THAT?</p>
+<p>There&#8217;s been various forum discussions about this, of course.  Naturally, the Roleplayer Nation came out against improvements to the SWG travel system as standing around like cattle is, apparently, the perfect opportunity to socialize with people I don&#8217;t know (or care to know) and roleplay <em>ad nauseum</em>.  For the most part, Sony remained characteristically mum about why the demanded improvements weren&#8217;t made sooner.</p>
+<p>Another problem with travel is zones that are larger than many third-world nations.  Nice for immersion, if you&#8217;re into that sort of thing (unlike me), but sucks ass if the game doesn&#8217;t provide increased run speeds (of a good duration &#8230; Shadowbane, I&#8217;m glaring in your direction here), NPCs that will send you across the great void, or player magic to teleport you.  And no, I don&#8217;t want to beg strangers (some stranger than others) to teleport me to my destination.</p>
+<p>I can think of one game that expected players to run across a zone the size of Egypt to arrive at a noob training area.  I AM NOT MAKING THAT UP.  Not making this up either, they&#8217;re making a sequel.  WHY?? WHY??  (No, I won&#8217;t put the link here because I cannot in good conscience aid the perpetuation of suckassery.)</p>
+<p>Wasted time (i.e. time away from productively improving my character) is the largest barrier to me enjoying their game and calling a night of gameplay a &#8220;fun evening&#8221;.  You know, an evening that was more enjoyable playing their game instead of watching reruns on HBO.  And travel waits add up.</p>
+<p>I classify travel wait as a deal breaker.  If I can&#8217;t pick up &#8220;faster travel&#8221; as a skill or a purchased game item, I&#8217;m going to have to LOVE their game, almost more than life itself, to continue.  If it is a skill item, it shouldn&#8217;t take away too much from my combat (fun) skills, or else I&#8217;ll have to purchase an alt account.  Guess how much I&#8217;m going to have to love a game to actually buy another box and pay for a second subscription.  GO ON AND GUESS!!  (ya, lots of love would be required.)</p>
+<p>And there have been games I&#8217;ve loved that much.  It&#8217;s a short list, true enough.  Seems to me it would just be easier on all of us, devs and players alike, to design a user-friendly travel system from Day One.</span></p>
+<p><img src="https://afkgamer.github.io/afkgamer-com/images/afk-end.png" class="noborder" /></p>
+]]></content:encoded>
+										</item>
+		<item>
+		<title>Developer Memos: Introduction</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2004/08/13/developer-memos-introduction/</link>
+				<pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Developer Memos]]></category>
+		<category><![CDATA[game design]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2004/08/13/developer-memos-introduction/</guid>
+				<description><![CDATA[This is the first in an occasional series of Memos to Developers: Things They Should and Shouldn&#8217;t Do &#8230; although I will warn you up front, these really are in the category of Things I Shouldn&#8217;t Have to Write Down. &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2004/08/13/developer-memos-introduction/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>This is the first in an occasional series of Memos to Developers: Things They Should and Shouldn&#8217;t Do &#8230; although I will warn you up front, these really are in the category of Things I Shouldn&#8217;t Have to Write Down. Common sense and all that, which curiously is more uncommon than one might think.</p>
+<p>Like, &#8220;This coffee is scalding hot, do not place near your sensitive genital area while driving at speeds greater than three miles per hour&#8221; or &#8220;POISON &#8211; DO NOT EAT!!&#8221; &#8230; and yet we do have to write that stuff down, don&#8217;t we?<span class="fullpost"></p>
+<p>I get a chuckle from Game Rant sites that do a lot of numerical analysis about break-even points for box sales, subscription numbers to keep a game afloat, how to improve games&#8217; replayability and multiplayer content levels.  Honestly, is it the players&#8217; jobs to tell developers what will be profitable and what is &#8220;fun&#8221;?  Isn&#8217;t it obvious?</p>
+<p>Well, it would be obvious for anyone that actually plays games.  Consider that little tidbit the first common sense item.  PLAY YOUR OWN GAME.</p>
+<p>Play all the classes and races.  PvP and PvE with almost no equipment.  Level up a crafter.  Collect loot and craft components.  Try to make game money as a noob.  Travel around. </p>
+<p>And when you find out how mind-numbingly boring some of your game mechanics are, walk over to the responsible designer&#8217;s cubicle and beat him with his own severed limb.  </p>
+<p>It can be a very effective motivator.</span></p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: A New Kind of Guild	</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/2005/02/28/a-new-kind-of-guild/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/archives/2005/02/28/a-new-kind-of-guild/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Tue, 28 Feb 2017 12:33:23 +0000	</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+			<item>
+				<title>
+				By: These aren&#8217;t the blogs you&#8217;re looking for&#8230; at buttonmashing.com				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2005/02/28/a-new-kind-of-guild/comment-page-1/#comment-10454</link>
+		<dc:creator><![CDATA[These aren&#8217;t the blogs you&#8217;re looking for&#8230; at buttonmashing.com]]></dc:creator>
+		<pubDate>Sat, 12 Aug 2006 05:13:46 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2005/02/28/a-new-kind-of-guild/#comment-10454</guid>
+					<description><![CDATA[[...] But the &#8220;there are no gaming bloggers&#8221; gaffe is only one of many the writer makes. The article in question also hints at blogging in MMOG&#8217;s. Hmmm, that seems like something Foton mentioned, ohh, I don&#8217;t know, two months ago! Of course, the all-mighty dollar looms large in all of this and we can&#8217;t forget marketing! &#8220;The reason we don&#8217;t have more community elements like blogs in games is because the publishers haven&#8217;t figured out how to harness it and make money off of it,&#8221; says Li. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] But the &#8220;there are no gaming bloggers&#8221; gaffe is only one of many the writer makes. The article in question also hints at blogging in MMOG&#8217;s. Hmmm, that seems like something Foton mentioned, ohh, I don&#8217;t know, two months ago! Of course, the all-mighty dollar looms large in all of this and we can&#8217;t forget marketing! &#8220;The reason we don&#8217;t have more community elements like blogs in games is because the publishers haven&#8217;t figured out how to harness it and make money off of it,&#8221; says Li. [&#8230;]</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: buttonmashing.com  &#187; Blog Archive   &#187; These aren&#8217;t the blogs you&#8217;re looking for&#8230;				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2005/02/28/a-new-kind-of-guild/comment-page-1/#comment-836</link>
+		<dc:creator><![CDATA[buttonmashing.com  &#187; Blog Archive   &#187; These aren&#8217;t the blogs you&#8217;re looking for&#8230;]]></dc:creator>
+		<pubDate>Sat, 07 May 2005 07:18:29 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2005/02/28/a-new-kind-of-guild/#comment-836</guid>
+					<description><![CDATA[[...] in MMOG&#8217;s. Hmmm, that seems like something Foton mentioned, ohh, I don&#8217;t know, two months ago! Of course, the all-mighty dollar looms large in all of this and we c [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] in MMOG&#8217;s. Hmmm, that seems like something Foton mentioned, ohh, I don&#8217;t know, two months ago! Of course, the all-mighty dollar looms large in all of this and we c [&#8230;]</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Karnatos				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2005/02/28/a-new-kind-of-guild/comment-page-1/#comment-337</link>
+		<dc:creator><![CDATA[Karnatos]]></dc:creator>
+		<pubDate>Tue, 01 Mar 2005 15:53:10 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2005/02/28/a-new-kind-of-guild/#comment-337</guid>
+					<description><![CDATA[I have already contemplated this sort of feature. I&#039;ve checked out the Combat Stats app for EQ2 (not that useful, but these types of apps are interesting nonetheless) and it monitors what is dumped to file via the /log cmd. This dumps text to a file, and Combat Stats intelligently parses the text to regurgitate back some stats by doing some simple math and such.
+
+It would not be hard to parse the same file triggering off of key words in a guild chat or group chat that trigger it to blog something. Heck, you could even have it monitor for new screenshot files to embed them in the blogged text.
+
+This would be like having an embeded news reporter on the frontlines... but we&#039;d become innondated by countless gammer&#039;s blogs with useless &quot;I saw the named Gnoll of Uberville today, I pooped myself because he was a Heroic encounter and sadly today... I am flying solo.&quot; accompanied by a screenshot or 30 of this great day in history. While cool, I dunno if this would have much appeal for anyone other than yourself, your guildmates, and perhaps a handful of friends... but it might still be something that&#039;d be quite popular.]]></description>
+		<content:encoded><![CDATA[<p>I have already contemplated this sort of feature. I&#8217;ve checked out the Combat Stats app for EQ2 (not that useful, but these types of apps are interesting nonetheless) and it monitors what is dumped to file via the /log cmd. This dumps text to a file, and Combat Stats intelligently parses the text to regurgitate back some stats by doing some simple math and such.</p>
+<p>It would not be hard to parse the same file triggering off of key words in a guild chat or group chat that trigger it to blog something. Heck, you could even have it monitor for new screenshot files to embed them in the blogged text.</p>
+<p>This would be like having an embeded news reporter on the frontlines&#8230; but we&#8217;d become innondated by countless gammer&#8217;s blogs with useless &#8220;I saw the named Gnoll of Uberville today, I pooped myself because he was a Heroic encounter and sadly today&#8230; I am flying solo.&#8221; accompanied by a screenshot or 30 of this great day in history. While cool, I dunno if this would have much appeal for anyone other than yourself, your guildmates, and perhaps a handful of friends&#8230; but it might still be something that&#8217;d be quite popular.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: buttonmashing.com				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2005/02/28/a-new-kind-of-guild/comment-page-1/#comment-334</link>
+		<dc:creator><![CDATA[buttonmashing.com]]></dc:creator>
+		<pubDate>Tue, 01 Mar 2005 03:45:31 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2005/02/28/a-new-kind-of-guild/#comment-334</guid>
+					<description><![CDATA[&lt;strong&gt;/blog coming soon?&lt;/strong&gt;
+
+I think Foton is on to something. We had the /pizza recently added to the EQ II repertoire. Can /blog be far behind? ...]]></description>
+		<content:encoded><![CDATA[<p><strong>/blog coming soon?</strong></p>
+<p>I think Foton is on to something. We had the /pizza recently added to the EQ II repertoire. Can /blog be far behind? &#8230;</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: jafd				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2005/02/28/a-new-kind-of-guild/comment-page-1/#comment-333</link>
+		<dc:creator><![CDATA[jafd]]></dc:creator>
+		<pubDate>Mon, 28 Feb 2005 23:10:29 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2005/02/28/a-new-kind-of-guild/#comment-333</guid>
+					<description><![CDATA[&quot;Eventually, blogging could become so ingrained in that guild&#039;s culture, they may never accomplish anything in game. Everyone would be alt-tabbed out of game to blog everything.&quot;
+
+Consider the results if they all have two monitors. And/or, a microphone hooked into a speech-to-text program. Live! From the front!
+
+Chilling, really.]]></description>
+		<content:encoded><![CDATA[<p>&#8220;Eventually, blogging could become so ingrained in that guild&#8217;s culture, they may never accomplish anything in game. Everyone would be alt-tabbed out of game to blog everything.&#8221;</p>
+<p>Consider the results if they all have two monitors. And/or, a microphone hooked into a speech-to-text program. Live! From the front!</p>
+<p>Chilling, really.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

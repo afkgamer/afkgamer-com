@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: CTScreens	</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/2006/12/06/ctscreens/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/archives/2006/12/06/ctscreens/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Tue, 28 Feb 2017 12:33:23 +0000	</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+			<item>
+				<title>
+				By: Foton				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2006/12/06/ctscreens/comment-page-1/#comment-11576</link>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+		<pubDate>Fri, 08 Dec 2006 15:17:51 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/12/06/ctscreens/#comment-11576</guid>
+					<description><![CDATA[That&#039;s weird.  When I upload as jpg, it stays as jpg.  Tried a tga just now, converts to jpg and stays jpg.]]></description>
+		<content:encoded><![CDATA[<p>That&#8217;s weird.  When I upload as jpg, it stays as jpg.  Tried a tga just now, converts to jpg and stays jpg.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Jen				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2006/12/06/ctscreens/comment-page-1/#comment-11556</link>
+		<dc:creator><![CDATA[Jen]]></dc:creator>
+		<pubDate>Fri, 08 Dec 2006 12:55:22 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/12/06/ctscreens/#comment-11556</guid>
+					<description><![CDATA[I hate how screen shots are automatically saved as tga. Why not JPG? Wonder if that will ever change.]]></description>
+		<content:encoded><![CDATA[<p>I hate how screen shots are automatically saved as tga. Why not JPG? Wonder if that will ever change.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

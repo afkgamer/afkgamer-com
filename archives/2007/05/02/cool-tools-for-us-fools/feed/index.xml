@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Cool Tools for Us Fools	</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/2007/05/02/cool-tools-for-us-fools/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/archives/2007/05/02/cool-tools-for-us-fools/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Tue, 28 Feb 2017 12:33:23 +0000	</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+			<item>
+				<title>
+				By: Melereg				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2007/05/02/cool-tools-for-us-fools/comment-page-1/#comment-17720</link>
+		<dc:creator><![CDATA[Melereg]]></dc:creator>
+		<pubDate>Sun, 06 May 2007 08:09:04 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/05/02/cool-tools-for-us-fools/#comment-17720</guid>
+					<description><![CDATA[Aye, AJAX is teh devil. Thats why the Dynamic Map doesn&#039;t use any. It does use Javascript because it cannot be done in any other way (but Flash or similar things that are just as dangerous).
+There is a bit of AJAX in the Location-Search (The vote-buttons) but the rest is plain HTML/Javascript.
+
+However I will add AJAX to the Dynamic Map too. When there will be images and comments for each location that is the way to go because AJAX allows me to only load those data the client requests and not all images/comment/associated data for each location of the current map. I don&#039;t use any AJAX where it does not make sense, but there are good uses for it.
+
+Oh and the shrew burrows are here: http://www.mehq.net/dynmap/index.php?locId=957 ;-)]]></description>
+		<content:encoded><![CDATA[<p>Aye, AJAX is teh devil. Thats why the Dynamic Map doesn&#8217;t use any. It does use Javascript because it cannot be done in any other way (but Flash or similar things that are just as dangerous).<br />
+There is a bit of AJAX in the Location-Search (The vote-buttons) but the rest is plain HTML/Javascript.</p>
+<p>However I will add AJAX to the Dynamic Map too. When there will be images and comments for each location that is the way to go because AJAX allows me to only load those data the client requests and not all images/comment/associated data for each location of the current map. I don&#8217;t use any AJAX where it does not make sense, but there are good uses for it.</p>
+<p>Oh and the shrew burrows are here: <a href="http://www.mehq.net/dynmap/index.php?locId=957" rel="nofollow">http://www.mehq.net/dynmap/index.php?locId=957</a> 😉</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Gemma				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2007/05/02/cool-tools-for-us-fools/comment-page-1/#comment-17644</link>
+		<dc:creator><![CDATA[Gemma]]></dc:creator>
+		<pubDate>Fri, 04 May 2007 14:02:16 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/05/02/cool-tools-for-us-fools/#comment-17644</guid>
+					<description><![CDATA[Voles, shrews, I&#039;m english it&#039;s all the same to me :p
+Thanks Heather I might give it another go, sounds like they arent with all those bears/ boars/ the next village where I ended up then..]]></description>
+		<content:encoded><![CDATA[<p>Voles, shrews, I&#8217;m english it&#8217;s all the same to me :p<br />
+Thanks Heather I might give it another go, sounds like they arent with all those bears/ boars/ the next village where I ended up then..</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Ghiest				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2007/05/02/cool-tools-for-us-fools/comment-page-1/#comment-17618</link>
+		<dc:creator><![CDATA[Ghiest]]></dc:creator>
+		<pubDate>Thu, 03 May 2007 14:48:09 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/05/02/cool-tools-for-us-fools/#comment-17618</guid>
+					<description><![CDATA[AJAX is the work of the devil :D
+
+Seriously it makes browsing from work a real ball ache for those with low powered laptops or thin clients, just makes me grind to a hault looking at those overly complicated unwarrented uses of AJAX ... It&#039;s like nuclear weapons, use only where needed and use as little as possible!
+
+Talking of crawling to a hault, isn&#039;t it time that Blizard give access to the direct XML pages?  Instead of having to pagescrape the data. It tends to put about 3x the load on the webserver than direct xml feed, go ask &lt;a href=&quot;http://brokentoys.com&quot;/ rel=&quot;nofollow&quot;&gt;Scott&lt;/a&gt; I&#039;m sure he can point them in the right direction.]]></description>
+		<content:encoded><![CDATA[<p>AJAX is the work of the devil 😀</p>
+<p>Seriously it makes browsing from work a real ball ache for those with low powered laptops or thin clients, just makes me grind to a hault looking at those overly complicated unwarrented uses of AJAX &#8230; It&#8217;s like nuclear weapons, use only where needed and use as little as possible!</p>
+<p>Talking of crawling to a hault, isn&#8217;t it time that Blizard give access to the direct XML pages?  Instead of having to pagescrape the data. It tends to put about 3x the load on the webserver than direct xml feed, go ask <a href="http://brokentoys.com/" rel="nofollow">Scott</a> I&#8217;m sure he can point them in the right direction.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Heather				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2007/05/02/cool-tools-for-us-fools/comment-page-1/#comment-17616</link>
+		<dc:creator><![CDATA[Heather]]></dc:creator>
+		<pubDate>Thu, 03 May 2007 14:15:51 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/05/02/cool-tools-for-us-fools/#comment-17616</guid>
+					<description><![CDATA[Errm, SAY &quot;east of delving fields.&quot;
+
+I claim post-benadryl wonkiness.]]></description>
+		<content:encoded><![CDATA[<p>Errm, SAY &#8220;east of delving fields.&#8221;</p>
+<p>I claim post-benadryl wonkiness.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Heather				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2007/05/02/cool-tools-for-us-fools/comment-page-1/#comment-17615</link>
+		<dc:creator><![CDATA[Heather]]></dc:creator>
+		<pubDate>Thu, 03 May 2007 14:15:19 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/05/02/cool-tools-for-us-fools/#comment-17615</guid>
+					<description><![CDATA[You mean the shrew burrows, gemma? Yeah, that drove us nuts too. Turns out when they see &quot;east of delving fields&quot; they mean just barely east of the town of delving fields, when the map is still telling you that you&#039;re *in* delving fields. Something like that, anyway. Unfortunately, while someone gave us directions involving &quot;near letter X of the word FOO on your map,&quot; I no longer remember them. :(]]></description>
+		<content:encoded><![CDATA[<p>You mean the shrew burrows, gemma? Yeah, that drove us nuts too. Turns out when they see &#8220;east of delving fields&#8221; they mean just barely east of the town of delving fields, when the map is still telling you that you&#8217;re *in* delving fields. Something like that, anyway. Unfortunately, while someone gave us directions involving &#8220;near letter X of the word FOO on your map,&#8221; I no longer remember them. 🙁</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Gemma				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2007/05/02/cool-tools-for-us-fools/comment-page-1/#comment-17610</link>
+		<dc:creator><![CDATA[Gemma]]></dc:creator>
+		<pubDate>Thu, 03 May 2007 13:28:36 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/05/02/cool-tools-for-us-fools/#comment-17610</guid>
+					<description><![CDATA[I saw a guild using them on their forums when I was gonna apply, LOL.  Saw one guy with it, thought it was cool, then saw another... thought they might&#039;ve had one guy making them for everyone on the forum :P
+
+I have NO heroic keys, and proud (as a healer, this really isnt a bad thing as I have a hard time saying no to anything) . I fucking hate pugs (despite the anti-no syndrome)  and am fucking hating starting over with a new guild every bloody 3-4 weeks.
+
+Speaking of finding things in LOTRO, does anyone know where the friggin vole nests are? I find voles all over the place where they say to look but no &#039;nests&#039; to &#039;close&#039;. I forget what area it was...]]></description>
+		<content:encoded><![CDATA[<p>I saw a guild using them on their forums when I was gonna apply, LOL.  Saw one guy with it, thought it was cool, then saw another&#8230; thought they might&#8217;ve had one guy making them for everyone on the forum 😛</p>
+<p>I have NO heroic keys, and proud (as a healer, this really isnt a bad thing as I have a hard time saying no to anything) . I fucking hate pugs (despite the anti-no syndrome)  and am fucking hating starting over with a new guild every bloody 3-4 weeks.</p>
+<p>Speaking of finding things in LOTRO, does anyone know where the friggin vole nests are? I find voles all over the place where they say to look but no &#8216;nests&#8217; to &#8216;close&#8217;. I forget what area it was&#8230;</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Puhase				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2007/05/02/cool-tools-for-us-fools/comment-page-1/#comment-17599</link>
+		<dc:creator><![CDATA[Puhase]]></dc:creator>
+		<pubDate>Wed, 02 May 2007 20:59:52 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/05/02/cool-tools-for-us-fools/#comment-17599</guid>
+					<description><![CDATA[That guy has some pretty ASS gear if you ask me. Especially since he is a combat rogue. A mixture of blues and greens will throw you into the 400agi, or at least 25% crit range by 65.
+
+Also, very pretty sig.]]></description>
+		<content:encoded><![CDATA[<p>That guy has some pretty ASS gear if you ask me. Especially since he is a combat rogue. A mixture of blues and greens will throw you into the 400agi, or at least 25% crit range by 65.</p>
+<p>Also, very pretty sig.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

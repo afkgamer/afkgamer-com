@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>game launch &#8211; AFK Gamer</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/tag/game-launch/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Thu, 07 Aug 2014 11:49:50 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>Tabula Rasa Live</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2007/11/02/tabula-rasa-live/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2007/11/02/tabula-rasa-live/#comments</comments>
+				<pubDate>Fri, 02 Nov 2007 15:56:24 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Playing Around (w/ new games)]]></category>
+		<category><![CDATA[game launch]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[tabula rasa]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/11/02/tabula-rasa-live/</guid>
+				<description><![CDATA[Tabula Rasa went live today in North America and Europe. (Hmm, you&#8217;d think they&#8217;d have a more intuitive domain name for that. Ohh, QJ.net owns the domain tabularasa dot com. Weird.) Anyways. Do you like shooting aliens? I sure do. &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2007/11/02/tabula-rasa-live/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p><a href="http://www.rgtr.com/index.html">Tabula Rasa</a> went live today in North America and Europe.  (Hmm, you&#8217;d think they&#8217;d have a more intuitive domain name for that.  Ohh, QJ.net owns the domain tabularasa dot com.  Weird.)  Anyways.  </p>
+<p>Do you like shooting aliens?  I sure do.  $50 for the box and $15 a month to play.  Nerd bait included with the $70 limited edition:  </p>
+<blockquote><p>* Exclusive Boo Bot Pet<br />
+* Exclusive dye recipes to customize your armor with unique colors<br />
+* Signature LOGOS character emote<br />
+* Welcome letter from General British<br />
+* Authentic AFS Military Challenge Coin<br />
+* Set of Tabula Rasa Dog Tags  (<em>Don&#8217;t wear those to school, kids.  I&#8217;m only thinking of your safety.  &#8211; Uncle Foton</em>)<br />
+* Exclusive Black Ops Poster<br />
+* AFS Field Guide<br />
+* 7 Double-sided maps<br />
+* Making of Tabula Rasa DVD</p></blockquote>
+<p>Here&#8217;s the <a href="http://www.plaync.com/us/news/2007/11/ncsoft_releases_10.html">press release for the game launch</a>.  </p>
+<p>I hadn&#8217;t followed TR very closely.  I suppose because it&#8217;s been SIX YEARS in development &#8212; mentally, I gave up on it.  Joke&#8217;s on me though, cuz here it is.</p>
+<p>BONUS:  <a href="http://www.mmognation.com/2007/07/30/tabula-rasa-beta-journal-first-impressions/">MMOG Nation has a spiffy write-up</a> re:  TR-beta with some good commentary from other beta players.  Seems like the $15 monthly is a major sticking point.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2007/11/02/tabula-rasa-live/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+							</item>
+	</channel>
+</rss>

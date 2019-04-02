@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hunters &#8211; AFK Gamer</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/tag/hunters/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Thu, 07 Aug 2014 11:49:50 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>Overheard in Guild Ventrilo</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2008/03/07/overheard-in-guild-ventrilo/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2008/03/07/overheard-in-guild-ventrilo/#comments</comments>
+				<pubDate>Fri, 07 Mar 2008 15:04:01 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[World of Warcraft Journal]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[guilds]]></category>
+		<category><![CDATA[hunters]]></category>
+		<category><![CDATA[raids]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2008/03/07/overheard-in-guild-ventrilo/</guid>
+				<description><![CDATA[I&#8217;m outside Zul&#8217;Aman, cooling my heels on the waitlist, while my guild is clearing to Hex Lord. Hunter: Hey! How come our target macros don&#8217;t work on these totems? (The /target corrupted macro from the Halazzi fight) Raid Leader: Ummm &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2008/03/07/overheard-in-guild-ventrilo/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>I&#8217;m outside Zul&#8217;Aman, cooling my heels on the waitlist, while my guild is clearing to Hex Lord.</p>
+<p><strong>Hunter:</strong>  Hey!  How come our target macros don&#8217;t work on these totems?  (The /target corrupted macro from the Halazzi fight)</p>
+<p><strong>Raid Leader:</strong>  Ummm &#8230;</p>
+<p><strong>Warlock:</strong>  Because these aren&#8217;t corrupted lightning totems?</p>
+<p><strong>Hunter:</strong>  Oh.</p>
+<p>I&#8217;ll bet he still doesn&#8217;t understand why his macro was &#8220;broken&#8221;.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2008/03/07/overheard-in-guild-ventrilo/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+	</channel>
+</rss>

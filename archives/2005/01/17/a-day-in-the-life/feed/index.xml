@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: A Day in the Life	</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/2005/01/17/a-day-in-the-life/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/archives/2005/01/17/a-day-in-the-life/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Tue, 28 Feb 2017 12:33:23 +0000	</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+			<item>
+				<title>
+				By: WJP3				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2005/01/17/a-day-in-the-life/comment-page-1/#comment-77</link>
+		<dc:creator><![CDATA[WJP3]]></dc:creator>
+		<pubDate>Tue, 18 Jan 2005 03:19:29 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2005/01/17/a-day-in-the-life/#comment-77</guid>
+					<description><![CDATA[Yeah, I&#039;ve already been hit up twice from beggars... sheesh.
+
+Oh well, I know the /ignore command...]]></description>
+		<content:encoded><![CDATA[<p>Yeah, I&#8217;ve already been hit up twice from beggars&#8230; sheesh.</p>
+<p>Oh well, I know the /ignore command&#8230;</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

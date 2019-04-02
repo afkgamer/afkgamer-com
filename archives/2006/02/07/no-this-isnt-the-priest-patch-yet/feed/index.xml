@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: No, This Isn&#8217;t the Priest Patch Yet	</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/2006/02/07/no-this-isnt-the-priest-patch-yet/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/archives/2006/02/07/no-this-isnt-the-priest-patch-yet/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Tue, 28 Feb 2017 12:33:23 +0000	</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+			<item>
+				<title>
+				By: Foton				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2006/02/07/no-this-isnt-the-priest-patch-yet/comment-page-1/#comment-2476</link>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+		<pubDate>Wed, 08 Feb 2006 15:08:10 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/02/07/no-this-isnt-the-priest-patch-yet/#comment-2476</guid>
+					<description><![CDATA[Right now, I&#039;m having problems recalling all the things they&#039;ve done right.  O yes, holidays and special events.  Exceptional execution.
+
+Ok, there&#039;s other things, but DAMN, the bad stuff is just wretched.  Last night, Dire Maul, my rogue is sheeped and I wander up the ramp, to the left, and start mingling with a dog pack and its owner.  Since dogs aren&#039;t fooled by stealth, vanishing was not an option and we did the quick trip to the graveyard.  We had a noob priest with us.  Ya, he should have dispelled.  OR, Blizzard could hotfix the sheep wandering as quickly as they did the weapon swapping.
+
+Here&#039;s a good start:
+
+&lt;strong&gt;World of Warcraft To Do List&lt;/strong&gt;
+
+&lt;strike&gt;1.  Add chance to fail to rogue stealth&lt;/strike&gt;
+&lt;strike&gt;2.  Remove loot tables from first few bosses in DM West.&lt;/strike&gt;
+.
+.
+.
+635.  Fix the out-of-combat delay after players are out-of-combat.
+.
+.
+.
+698.  Fix the wandering radius of polymorphed mobs and players.]]></description>
+		<content:encoded><![CDATA[<p>Right now, I&#8217;m having problems recalling all the things they&#8217;ve done right.  O yes, holidays and special events.  Exceptional execution.</p>
+<p>Ok, there&#8217;s other things, but DAMN, the bad stuff is just wretched.  Last night, Dire Maul, my rogue is sheeped and I wander up the ramp, to the left, and start mingling with a dog pack and its owner.  Since dogs aren&#8217;t fooled by stealth, vanishing was not an option and we did the quick trip to the graveyard.  We had a noob priest with us.  Ya, he should have dispelled.  OR, Blizzard could hotfix the sheep wandering as quickly as they did the weapon swapping.</p>
+<p>Here&#8217;s a good start:</p>
+<p><strong>World of Warcraft To Do List</strong></p>
+<p><strike>1.  Add chance to fail to rogue stealth</strike><br />
+<strike>2.  Remove loot tables from first few bosses in DM West.</strike><br />
+.<br />
+.<br />
+.<br />
+635.  Fix the out-of-combat delay after players are out-of-combat.<br />
+.<br />
+.<br />
+.<br />
+698.  Fix the wandering radius of polymorphed mobs and players.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Elbows				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2006/02/07/no-this-isnt-the-priest-patch-yet/comment-page-1/#comment-2475</link>
+		<dc:creator><![CDATA[Elbows]]></dc:creator>
+		<pubDate>Wed, 08 Feb 2006 14:45:05 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/02/07/no-this-isnt-the-priest-patch-yet/#comment-2475</guid>
+					<description><![CDATA[For all the things that these guys have done right, I think it should be pretty obvious by now that they can&#039;t code their way out of an Intro to Java class.
+
+This combat bug is especially devastating to warriors in PVP, since we have to be out of combat before we can charge.  No one likes burning a bloodrage   intercept just to close distance when a charge would have sufficed.  Aside from the obvious mistakes like the cloth disenchanting problems, my favorite recent little coding screw-up occured with 1.9.
+
+If you recall, in 1.6 (I believe) a global cooldown was added when swapping weapons in combat,  1.5 seconds for every class but rogue (1 s for them).  Ok, one of the first of many warrior nerfs, boo hoo. I was upset since I&#039;d been swapping weapons for about 10 months at that point but got used to it after a couple of days.
+
+When 1.9 went live about the first thing I noticed was that the global cooldown to swapping weapons was gone!  First thought was, &quot;Could they really be throwing us a bone here?&quot;  Of course not, it was undocumented and therefore a mistake which was remedied in the same hotfix that stopped the jerky character movement.
+
+It&#039;s a little slip up like this that makes me wonder if they&#039;ve ever heard of version control before.  Maybe they&#039;re using second year CS majors for the majority of their coding.  Whoever&#039;s responsible, they make some fucking amatuer mistakes.]]></description>
+		<content:encoded><![CDATA[<p>For all the things that these guys have done right, I think it should be pretty obvious by now that they can&#8217;t code their way out of an Intro to Java class.</p>
+<p>This combat bug is especially devastating to warriors in PVP, since we have to be out of combat before we can charge.  No one likes burning a bloodrage   intercept just to close distance when a charge would have sufficed.  Aside from the obvious mistakes like the cloth disenchanting problems, my favorite recent little coding screw-up occured with 1.9.</p>
+<p>If you recall, in 1.6 (I believe) a global cooldown was added when swapping weapons in combat,  1.5 seconds for every class but rogue (1 s for them).  Ok, one of the first of many warrior nerfs, boo hoo. I was upset since I&#8217;d been swapping weapons for about 10 months at that point but got used to it after a couple of days.</p>
+<p>When 1.9 went live about the first thing I noticed was that the global cooldown to swapping weapons was gone!  First thought was, &#8220;Could they really be throwing us a bone here?&#8221;  Of course not, it was undocumented and therefore a mistake which was remedied in the same hotfix that stopped the jerky character movement.</p>
+<p>It&#8217;s a little slip up like this that makes me wonder if they&#8217;ve ever heard of version control before.  Maybe they&#8217;re using second year CS majors for the majority of their coding.  Whoever&#8217;s responsible, they make some fucking amatuer mistakes.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

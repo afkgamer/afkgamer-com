@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wordpress &#8211; AFK Gamer</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/tag/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Thu, 07 Aug 2014 11:49:50 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>Surprise!</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2007/07/15/surprise/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2007/07/15/surprise/#comments</comments>
+				<pubDate>Mon, 16 Jul 2007 06:27:13 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/07/15/surprise/</guid>
+				<description><![CDATA[While you were busy reading a better website, I was busy upgrading AFK Gamer to the latest WordPress and a different look. One of the reasons to upgrade was that the post database was so HUGE, it was choking the &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2007/07/15/surprise/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>While you were busy reading a better website, I was busy upgrading AFK Gamer to the latest WordPress and a different look.  </p>
+<p>One of the reasons to upgrade was that the post database was so HUGE, it was choking the old version of WordPress, as you might have noticed yourself on some days.  Another reason, a few of the plugins I use were losing functionality as plugin authors threw their time and support behind the 2.2+ version.  I don&#8217;t like lost functionality &#8212; fully functional is a real life priority of mine.</p>
+<p>Lastly, AFK Gamer is three years old today &#8212; what better way to mark the occasion than an upgrade and a design change.  You might want to celebrate by enjoying some blog reruns, like the first post, <a href="https://afkgamer.github.io/afkgamer-com/archives/2004/07/15/self-indulgent-introduction/">&#8220;Self-Indulgent Introduction&#8221;</a> when I began my story at the beginning of the story, or, read some <a href="https://afkgamer.github.io/afkgamer-com/archives/category/noteworthy/">favorites</a>.</p>
+<p>There&#8217;s a few things I don&#8217;t have fully operational yet with the new design, like the archives or the search function (ya, annoying).  All that should be fixed within a couple of days.  </p>
+<p>Meanwhile, I added a &#8220;Foton in Reruns&#8221; section to the footer, which is a randomized snippet from past posts.  Many thanks to blog fan Firefly (not her real name) for combing through years of posts and cutting and pasting code for hours and hours.  I&#8217;ve always thought I should quote myself more, like the Poindexters, and now I&#8217;ll be doing just that thousands of times a day.  God, the ego on me!</p>
+<p>Thanks too, of course, to all the AFK readers.  Oh I know you&#8217;re thirsty for misadventures and guild drama &#8212; my tears sustain you.  However, whyever you&#8217;re here, I&#8217;m glad you are.  I have learned far more from your comments and emails than you ever learned from me, I&#8217;m sure of that.</p>
+<p>Looking forward to Year 4&#8217;s adventures and travels,<br />
+Foton</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2007/07/15/surprise/feed/</wfw:commentRss>
+		<slash:comments>21</slash:comments>
+							</item>
+		<item>
+		<title>AFK Gamer Goin&#8217; Mobile</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2007/01/10/afk-gamer-goin-mobile/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2007/01/10/afk-gamer-goin-mobile/#respond</comments>
+				<pubDate>Wed, 10 Jan 2007 16:18:48 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/01/10/afk-gamer-goin-mobile/</guid>
+				<description><![CDATA[AFK Gamer is now available through mobile browsers thanks to the mobile publishing tool, Winksite. There&#8217;s no breaking news around here, I realize, but maybe some day you&#8217;ll be bored and need some reading material for the public restroom. There &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2007/01/10/afk-gamer-goin-mobile/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>AFK Gamer is now available through mobile browsers thanks to the mobile publishing tool, <a href="http://winksite.com/">Winksite</a>.  </p>
+<p>There&#8217;s no breaking news around here, I realize, but maybe some day you&#8217;ll be bored and need some reading material for the public restroom.  There ya go, mobile.  </p>
+<p>Not just cellphones either &#8230; the blog is also properly formatted for browsing via DS-Lite, the Sony PSP and Nintendo&#8217;s Wii, although I really hope you&#8217;re not going to drag your Wii into a public restroom with you.  (There&#8217;s probably a pun in there, but I&#8217;m going to leave that one on the table.)</p>
+<p>Bloggers, Winksite has written a WordPress plugin, <a href="http://harper.wirelessink.com/?p=104">Ultimate Gamer&#8217;s Pack</a>, that auto-magically detects when a DS-Lite, PSP or Wii are accessing your site and properly renders your site for the device.  I haven&#8217;t tested AFK Gamer with the plugin because I don&#8217;t have any of those gadgets, but cellphone browsing worked great.</p>
+<p>I flagged AFK Gamer as adult content because of my sometimes-adult language.  (You kids shouldn&#8217;t be reading this site anyways, but fercrissakes, don&#8217;t be using a cellphone during class.  I don&#8217;t want to get an angry email from your teacher.)</p>
+<p>Full-content posts and comments available:</p>
+<p><a href="http://winksite.com/Foton/afkgamer/" title="Mobile-friendly AFK Gamer"><img alt="WINKsite" border="0" height="31" src="http://winksite.com/images/wink_link.gif" vspace="5" width="88" class="noborder" /></a></p>
+<p>Noob tutorial:  Click that icon, Send to phone, Enter Carrier and Mobile number, Pick up phone, Open text message, Go to URL within.  Or, Pick up phone, Open web browser, Navigate to winksite.com, Select Direct Access and enter AFK Gamer&#8217;s Winksite ID:  18990.  (Easier if you get this set up before you go to the restroom, however, searching for mobile sites through winksite.com by name or category is possible.)</p>
+<p>If nothing else, I can keep my eye on the pharmaceuticals spammers during meetings.  Totally worth it.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2007/01/10/afk-gamer-goin-mobile/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>A Mean Idea to Call My Own</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2006/12/27/a-mean-idea-to-call-my-own/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2006/12/27/a-mean-idea-to-call-my-own/#comments</comments>
+				<pubDate>Wed, 27 Dec 2006 13:33:56 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[city of heroes]]></category>
+		<category><![CDATA[dark age of camelot]]></category>
+		<category><![CDATA[everquest]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[guild wars]]></category>
+		<category><![CDATA[star wars galaxies]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/12/27/a-mean-idea-to-call-my-own/</guid>
+				<description><![CDATA[Traveling today, back in my adopted town tomorrow. In the meantime &#8230; I&#8217;ve done some work on back info you might find amusing. As you&#8217;ve probably noticed, I revamped the look around AFK Gamer. (And if you&#8217;re reading blogs via &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/12/27/a-mean-idea-to-call-my-own/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Traveling today, back in my adopted town tomorrow.</p>
+<p>In the meantime &#8230; I&#8217;ve done some work on back info you might find amusing.  As you&#8217;ve probably noticed, I revamped the look around AFK Gamer.  (And if you&#8217;re reading blogs via feed reader only, you&#8217;re wrong.)  More importantly, I fixed some of the static pages and expanded the historical record.  If you&#8217;re the type who enjoys second-guessing others&#8217; poor decisions (e.g. mine) &#8212; and we&#8217;re talking YEARS OLD decisions here &#8212; you might enjoy this.</p>
+<p>Within the limits of blurred memories, I documented my <a href="https://afkgamer.github.io/afkgamer-com/history/">game characters</a> and <a href="https://afkgamer.github.io/afkgamer-com/history/guilds/">guilds</a> over the past ten years.  Here&#8217;s an example of why this is mildly amusing:  EQ &#8211; Original Main:  Druid (soloing juggernaut), Next Main:  Bard (post-Luclin soloing juggernaut), Constant Alt:  Cleric (equip my Mains, kthxbye).  </p>
+<p>Takes me a while to figure out the system, but once I do, immersion and community be damed, I&#8217;m working it.</p>
+<p>While it took me weeks to remember all that and piece together the dates, I realized that most of the memories had become fond ones.  That&#8217;s one of the advantages of losing your mind.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2006/12/27/a-mean-idea-to-call-my-own/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+							</item>
+		<item>
+		<title>Heads Up</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2006/08/11/heads-up/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2006/08/11/heads-up/#respond</comments>
+				<pubDate>Fri, 11 Aug 2006 15:43:16 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/08/11/heads-up/</guid>
+				<description><![CDATA[This weekend I will be updating blog code, again, to the latest stable release of K2, the theme I whacked and hacked for the site. Because it&#8217;s been months since I whacked and hacked theme code, this will take about &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/08/11/heads-up/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p class="alert"><strong>This weekend I will be updating blog code</strong>, again,<br />
+to the <a href="http://getk2.com/2006/08/k2-09-release/">latest stable release of K2</a>, the theme I whacked and hacked for the site.</p>
+<p>Because it&#8217;s been months since I whacked and hacked theme code, this will take about 39 hours to complete and will involve much funkiness &#8212; madness to commence Saturday morning.  Primarily, the updates will affect navigation and improved commenting code.</p>
+<p>Come Hell, high water, and empty liquor bottles, I&#8217;ll have it completed by Monday morning.  </p>
+<p>UPDATE:  Did I say Monday?  I meant I was gonna get up off that bar stool just as soon as I could figure it out.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2006/08/11/heads-up/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Applying Minty Fresh Code</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2006/08/06/applying-minty-fresh-code/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2006/08/06/applying-minty-fresh-code/#respond</comments>
+				<pubDate>Sun, 06 Aug 2006 17:48:19 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/08/06/applying-minty-fresh-code/</guid>
+				<description><![CDATA[**BLOG TERROR ALERT LEVEL: SEVERE LOW(ER)** Severe risk of blog terror as code is upgraded to WordPress v2.04. All Readers should continue to be vigilant, take notice of their surroundings, and report suspicious blog activity to the local &#8230; whatever. &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/08/06/applying-minty-fresh-code/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p class="alert"><strong>**BLOG TERROR ALERT LEVEL:  <del datetime="2006-08-06T19:14:01+00:00">SEVERE</del> LOW(ER)**</strong><br />
+Severe risk of blog terror as code is upgraded to WordPress v2.04.<br />
+All Readers should continue to be vigilant, take notice of their surroundings,<br />
+and report suspicious blog activity to the local &#8230; whatever.</p>
+<p><strong>Notes to me</strong>:  What in the hell is with the tag pages?  No idea, but I intend to get to the bottom of it.  (*shrug* updated permalinks and UTW config, works now &#8212; must be magic.)<br />
+Don&#8217;t forget bla bla backup, plugins, bla bla <a href="http://codex.wordpress.org/index.php?title=Upgrading_WordPress&#038;diff=0&#038;oldid=29529#Upgrade_2.0.3_to_2.0.4">upgrade instructions</a>, turn plugins back on, marvel that spammers got through during that 5-minute window, test navigation.  (Done.  Easy peasy, lemon squeezy)<br />
+Redo any updated plugins, test, bla bla, queue up for Warcraft&#8217;s Alterac Valley after patting self on back for a job well done.  (Fuuuuuck, <del datetime="2006-08-06T19:05:08+00:00">Bad Behavior</del> and <del datetime="2006-08-06T19:14:01+00:00">Extended Live Archives</del> need to be upgraded, of which, ELA is ALWAYS a huge pain in the ass to redo.  BBStats needed an upgrade too.  DONE!  Foton deserves a distilled reward.)</p>
+<p>As usual, if you notice some funkiness that I missed, shoot me an email if you would please &#8212; Foton (at) afkgamer (dot) com.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2006/08/06/applying-minty-fresh-code/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Upgrading &#8211; Upgraded</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2006/06/03/upgrading/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2006/06/03/upgrading/#respond</comments>
+				<pubDate>Sat, 03 Jun 2006 12:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/06/03/upgrading/</guid>
+				<description><![CDATA[Falling Rocks and Code Mayhem Upgraded The Blog to WordPress 2.0.3.Fitter, happier, more productive. Notes to me (although if you&#8217;re REALLY bored, you can follow along): Update plugins &#8212; WordPress Database Backup, Akismet (wtf, I was already using latest versions, &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/06/03/upgrading/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<div class="alert"><small><strong>Falling Rocks and Code Mayhem</strong><br />
+Upgraded The Blog to WordPress 2.0.3.<br />Fitter, happier, more productive.</small></div>
+<p>Notes to me (although if you&#8217;re REALLY bored, you can follow along):<br />
+Update plugins &#8212; <del datetime="2006-06-03T12:10:26+00:00">WordPress Database Backup</del>, <del datetime="2006-06-03T12:10:26+00:00">Akismet</del> (wtf, I was already using latest versions, not sure why they highlighted those plugins as requiring updates)<br />
+<del datetime="2006-06-03T13:02:19+00:00">Fix for WP2.0.3 comment edit problems</del> (<a href="http://txfx.net/code/wordpress/wordpress-203-tuneup/">link</a>)  (must-have plugin.  changes to comment edit code=very stupid)<br />
+<del datetime="2006-06-03T13:02:19+00:00">5-step upgrade instructions for 2.0.1 to 2.0.3</del> (<a href="http://codex.wordpress.org/Upgrading_WordPress#Upgrade_2.0.1_to_2.0.2">link</a>)</p>
+<p>Tested.  Completed.  Moving on with life.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2006/06/03/upgrading/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Meet the Blahggers</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2006/02/14/meet-the-blahggers/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2006/02/14/meet-the-blahggers/#comments</comments>
+				<pubDate>Tue, 14 Feb 2006 18:05:41 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[gdc]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/02/14/meet-the-blahggers/</guid>
+				<description><![CDATA[So this GDC thing is coming up in March. That&#8217;s the Game Developers Conference, and although the name suggests this is for insiders only, money talks &#8212; $1625 for an all-access pass, prices good until tomorrow. I don&#8217;t think that &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/02/14/meet-the-blahggers/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>So this GDC thing is coming up in March.  That&#8217;s the <strong>G</strong>ame <strong>D</strong>evelopers <strong>C</strong>onference, and although the name suggests this is for insiders only, <a href="http://www.gdconf.com/register/passoptions.htm">money talks</a> &#8212; $1625 for an all-access pass, prices good until tomorrow.  </p>
+<p>I don&#8217;t think that includes an open bar.  Trust me, I looked.</p>
+<p>I read over on <a href="http://www.zenofdesign.com/?p=573">Schubert&#8217;s Zen of Design</a> that he&#8217;s hosting a Game Blogger Meet N Greet in connection with the GDC, which sounds interesting and all, but there is no way in hell I can sell a gaming conference to my boss.  He&#8217;s not a visionary like me.  He&#8217;s good for signing paychecks, however, and providing unrestricted net access.  (<a href="http://www.cmpevents.com/GD06/a.asp?option=C&#038;V=11&#038;SessID=2340">Meet N Greet details</a>)  </p>
+<p>Some of the issues up for discussion, which I can answer right now because I&#8217;m good at explaining things:</p>
+<p>Privacy issues &#8212; stay anonymous, guard it with your life.  You do like to get paid, don&#8217;t you?  (and, for us outsiders, you don&#8217;t want your account mysteriously banned, do you?)</p>
+<p>Troublesome posters and/or spam &#8212; Posters, edit their crap to something more &#8230; syco-fancy.  Some dude thinks he can come into my house (here) where I pay the bills and take a shit, he&#8217;s got another thing coming.  (Way more fun than a blanket IP ban, too.)  Spam, <a href="http://akismet.com/">Akismet</a> and <a href="http://www.ioerror.us/software/bad-behavior/">Bad Behavior</a> for the win.  No auto-moderation necessary.</p>
+<p>Best blog software &#8212; It begins and ends with WordPress.</p>
+<p>The bar tab &#8212; Invite one of the IGE guys, they&#8217;re rich.</p>
+<p>Probably the best piece of advice I could offer to wannabes, startups and blogger hags alike would be this, (not that I was asked):  Take a stand on something.  Fanbois, suckups and company mouthpieces we have aplenty.  </p>
+<p>Your best work will always start off with &#8220;I just had a crazy idea&#8221;.  </p>
+<p>Conversely, not every crazy idea will be good work.  We want to read that too.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2006/02/14/meet-the-blahggers/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+		<item>
+		<title>Whole Lotta Upgrading Going On</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2006/02/11/whole-lotta-upgrading-going-on/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2006/02/11/whole-lotta-upgrading-going-on/#comments</comments>
+				<pubDate>Sat, 11 Feb 2006 23:31:50 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/02/11/whole-lotta-upgrading-going-on/</guid>
+				<description><![CDATA[Upgrading to WordPress 2.0.1 and K2 r167. This assumes that the server will cooperate, which is a mighty big assumption. Also, I will be updating some plugins (ELA, BLC and UTW &#8212; that&#8217;s a note to me so I don&#8217;t &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/02/11/whole-lotta-upgrading-going-on/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p class="alert">Upgrading to <del datetime="2006-02-12T17:02:04+00:00">WordPress 2.0.1</del> and <del datetime="2006-02-13T02:28:55+00:00">K2 r167</del>.  This assumes that the server will cooperate, which is a mighty big assumption.</p>
+<p>Also, I will be updating some plugins (<del datetime="2006-02-12T17:02:04+00:00">ELA</del>, <del datetime="2006-02-12T17:02:04+00:00">BLC</del> and <del datetime="2006-02-12T17:02:04+00:00">UTW</del> &#8212; that&#8217;s a note to me so I don&#8217;t fergit) AND <del>changing</del> breaking the site design, so expect a brave new world on Monday.</p>
+<p>That is all, citizens.  </p>
+<p>Hey.  By the way.  What are you doing hanging out here on a weekend?  Jeez, go play a game.</p>
+<p>UPDATE:  Finished, except for a few minor hacks, subpage edits and a resolution never to overhaul the layout again.  I was looking forward to a little Warcraft tonight &#8212; Sunday is raid-free and minty fresh! &#8212; HOWEVER, I&#8217;m stuck in an hour+ queue.  Wish I would have remembered to start the login a couple of hours ago while I was still hacking CSS files.  </p>
+<p>Best incidental effect of World of Warcraft on the entire entertainment industry:  improved primetime television viewership by queued WoW players.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2006/02/11/whole-lotta-upgrading-going-on/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+							</item>
+		<item>
+		<title>A Christmas Party</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2005/11/29/a-christmas-party/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2005/11/29/a-christmas-party/#comments</comments>
+				<pubDate>Tue, 29 Nov 2005 15:15:36 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[World of Warcraft Journal]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[screenshots]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/?p=752</guid>
+				<description><![CDATA[While hiding from the Warcraft guild, on one of my dozen &#8220;hiding from the guild&#8221; alts, I passed through Stormwind and overheard this noob begging for a mage portal to Darnassassass: Now c&#8217;mon! If you&#8217;re going to name your character &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2005/11/29/a-christmas-party/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>While hiding from the Warcraft guild, on one of my dozen &#8220;hiding from the guild&#8221; alts, I passed through Stormwind and overheard this noob begging for a mage portal to Darnassassass:</p>
+<p><img src="https://afkgamer.github.io/afkgamer-com/images/Christmas.jpg" width="449" height="76" alt="Christmas" /></p>
+<p>Now c&#8217;mon!  If you&#8217;re going to name your character Christmas, you&#8217;ve got to expect joke responses to EVERYTHING.  Christmas shouts, &#8220;<acronym title="looking for more">LFM</acronym> for a party.&#8221;  Punchlines:  Will there be presents?  Did you invite Santa?  Can I grope the receptionist?  </p>
+<p>How about the priest rezz macros?  &#8220;Resurrecting Christmas&#8221;  Sounds like a Hallmark Holiday Special starring Wilford Brimley, which is probably just the sort of television programming that would appeal to a humorless Warcraft character named Christmas.</p>
+<p><span id="more-752"></span>Speaking of the timeless battle between good and evil, AFK Gamer began the Christmas season with the mark of the beast.</p>
+<p><img src="https://afkgamer.github.io/afkgamer-com/images/MarkoftheBeast.JPG" width="498" height="161" alt="Mark of the Beast!!!" /></p>
+<p>I&#8217;d think Satan had better things to do than marking everything with his devil number, but maybe he doesn&#8217;t.</p>
+<p>He could spend his spare time running a Warcraft raiding guild &#8230; like mine:</p>
+<p><img src="https://afkgamer.github.io/afkgamer-com/images/GankingXroads.jpg" width="498" height="94" alt="Ganking the Xroads.  Why??  WHY??" /></p>
+<p>The involuntarily-elected guildleader (think of him as The Puppet) and I (self-described Puppet Master) spend a great deal of time wondering who the hell recruited some of these people in the guild (think:  The Puppet Regime).  Guild PvP night becomes Ganking the Crossroads Lowbies night??  That&#8217;s not even worth a griffin fee.  It would be more entertaining to go AFK in the battlegrounds and respond to all the cursing tells with &#8220;ni hao&#8221;.</p>
+<p>Anyways.  Good news for the Beast-Marked AFK Gamer blog:  The Puppet will be helping out around here with reblogging and hunting down news no one can use.  More importantly, he has a screenshot collection to be envied.  Not winky dinky screenshots of expansive vistas or dead boss mobs with cheering players posing next to their loot &#8212; we&#8217;re talking screenshots of attention whores, dirty deals and guildmates making complete jackasses of themselves.  </p>
+<p>Which, as you see above, is rather common.</p>
+<p>The other good news about this development is that my gag order has been lifted.  Previously, insider guild bullshit was verboten, regardless of its comedic value.  (!!!)  I chafed under that yoke and had briefly toyed with the idea of making a throwaway level 60 alt to guild elsewhere, but who has the energy nowadays?  Not me.</p>
+<p>I&#8217;ll still cleverly mask identities to protect, well, to protect my own ass, but for the most part &#8230; here&#8217;s my world and welcome to it.</p>
+<p>*Obvious foreshadowing*  It&#8217;s all about the loot.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2005/11/29/a-christmas-party/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+							</item>
+		<item>
+		<title>Uber New Hax</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2005/09/11/uber-new-hax/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2005/09/11/uber-new-hax/#comments</comments>
+				<pubDate>Mon, 12 Sep 2005 04:46:09 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/?p=592</guid>
+				<description><![CDATA[Changing the layout and few admin-type things here and there. This is the sort of fun that can be had while pharming the phatness in The Endgame for hours. And hours. And hours. Buff, fight, kill, rezz the idiots that &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2005/09/11/uber-new-hax/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Changing the layout and few admin-type things here and there.  This is the sort of fun that can be had while pharming the phatness in The Endgame for hours.  And hours.  And hours.</p>
+<p>Buff, fight, kill, rezz the idiots that can&#8217;t CONTAIN themselves when fighting a badass monster, discuss loot for 15 minutes (alt-tab to mess around with blog layout), rebuff (alt-tab), fight, kill, rezz the idiots, alt-tab time again!</p>
+<p>Anyways, this new template is so easy to install, config, bla bla, (full credits in footer), even an idiot can work with it.  And indeed, an idiot just did work with it.  It&#8217;s a beta release &#8212; I&#8217;m cutting edge that way, I&#8217;m all about the betas &#8212; so a few things will be busted while I shake out the loose screws.</p>
+<p>And since my guild&#8217;s raid timer for World of Warcraft&#8217;s big boy zones reset today and tomorrow, I&#8217;ll have plenty of time for screw shaking.</p>
+<p>Eh, it&#8217;s better than cussing everyone out.  Again.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2005/09/11/uber-new-hax/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+							</item>
+	</channel>
+</rss>

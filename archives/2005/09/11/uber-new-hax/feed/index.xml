@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Uber New Hax	</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/2005/09/11/uber-new-hax/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/archives/2005/09/11/uber-new-hax/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Tue, 28 Feb 2017 12:33:23 +0000	</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+			<item>
+				<title>
+				By: WTF				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2005/09/11/uber-new-hax/comment-page-1/#comment-1756</link>
+		<dc:creator><![CDATA[WTF]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2005 19:05:00 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/?p=592#comment-1756</guid>
+					<description><![CDATA[wtf is this ?
+i think im lost
+fuck the internet is big :O]]></description>
+		<content:encoded><![CDATA[<p>wtf is this ?<br />
+i think im lost<br />
+fuck the internet is big :O</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Foton				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2005/09/11/uber-new-hax/comment-page-1/#comment-1706</link>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2005 17:20:43 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/?p=592#comment-1706</guid>
+					<description><![CDATA[white background extends all the way for me in FF 1.0.6.
+
+I can imagine that would look really annoying to you.  :)
+
+try a forced refresh?  (ctrl F5)  otherwise, hell if i know.
+
+BUT!  I do see goofiness in IE related to a div issue.  (what. a. shock.)
+
+Bleh, now I see it.  Couldn&#039;t because I was logged in under FF.  *calls in the intern!*
+
+Known issue -- discussion &lt;a href=&quot;http://flickr.com/groups/binarybonsai/discuss/83605/&quot;&gt;here&lt;/a&gt; (for my reference)
+
+(Again for my reference, IE sidebar fix &lt;a href=&quot;http://flickr.com/groups/binarybonsai/discuss/76285/&quot;&gt;here&lt;/a&gt; -- r73 was supposed to have IE fix included, maybe didn&#039;t make it into release or didn&#039;t work.)
+
+Temp fix:  changed backgrounds to white, no one&#039;s the wiser.  
+Temp fix 2:  stepped back to r60, appears correct in FF and IE (with search bar out of place in IE).
+
+Fix ID&#039;d for next RC (div issues with .commentauthor)]]></description>
+		<content:encoded><![CDATA[<p>white background extends all the way for me in FF 1.0.6.</p>
+<p>I can imagine that would look really annoying to you.  🙂</p>
+<p>try a forced refresh?  (ctrl F5)  otherwise, hell if i know.</p>
+<p>BUT!  I do see goofiness in IE related to a div issue.  (what. a. shock.)</p>
+<p>Bleh, now I see it.  Couldn&#8217;t because I was logged in under FF.  *calls in the intern!*</p>
+<p>Known issue &#8212; discussion <a href="http://flickr.com/groups/binarybonsai/discuss/83605/">here</a> (for my reference)</p>
+<p>(Again for my reference, IE sidebar fix <a href="http://flickr.com/groups/binarybonsai/discuss/76285/">here</a> &#8212; r73 was supposed to have IE fix included, maybe didn&#8217;t make it into release or didn&#8217;t work.)</p>
+<p>Temp fix:  changed backgrounds to white, no one&#8217;s the wiser.<br />
+Temp fix 2:  stepped back to r60, appears correct in FF and IE (with search bar out of place in IE).</p>
+<p>Fix ID&#8217;d for next RC (div issues with .commentauthor)</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: jiffy				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2005/09/11/uber-new-hax/comment-page-1/#comment-1705</link>
+		<dc:creator><![CDATA[jiffy]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2005 17:05:03 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/?p=592#comment-1705</guid>
+					<description><![CDATA[Nono, layout wise.  Look at this page in IE, then look at it in FF.  The white BG + green border ends at the title of the blog post.  It does not extend downward to cover the entire post and the comments.  It&#039;s probably a div tag height issue.  IE doesn&#039;t care, but FF does.  I think.]]></description>
+		<content:encoded><![CDATA[<p>Nono, layout wise.  Look at this page in IE, then look at it in FF.  The white BG + green border ends at the title of the blog post.  It does not extend downward to cover the entire post and the comments.  It&#8217;s probably a div tag height issue.  IE doesn&#8217;t care, but FF does.  I think.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Foton				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2005/09/11/uber-new-hax/comment-page-1/#comment-1704</link>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2005 16:19:01 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/?p=592#comment-1704</guid>
+					<description><![CDATA[Might have been a server issue cuz I&#039;m not seeing that now.  Server&#039;s been crap for weeks, but supposedly going to be resolved substantially by tomorrow night.]]></description>
+		<content:encoded><![CDATA[<p>Might have been a server issue cuz I&#8217;m not seeing that now.  Server&#8217;s been crap for weeks, but supposedly going to be resolved substantially by tomorrow night.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: jiffy				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2005/09/11/uber-new-hax/comment-page-1/#comment-1703</link>
+		<dc:creator><![CDATA[jiffy]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2005 15:21:36 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/?p=592#comment-1703</guid>
+					<description><![CDATA[the individual news story pages are broken under Firefox.  Fix it fix it!!111one!oneone!eleventyone!1]]></description>
+		<content:encoded><![CDATA[<p>the individual news story pages are broken under Firefox.  Fix it fix it!!111one!oneone!eleventyone!1</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Foton				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2005/09/11/uber-new-hax/comment-page-1/#comment-1700</link>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2005 05:53:21 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/?p=592#comment-1700</guid>
+					<description><![CDATA[Hiding To Do list here, plus I can test commenting.  (I so clever.)
+
+&lt;del&gt;Tag plugin&lt;/del&gt;
+&lt;del&gt;Recent comments in sidebar&lt;/del&gt;
+&lt;del&gt;Archives page - ELA&lt;/del&gt; (goddamn, those are slick!)
+&lt;del&gt;Favatars not working for comments&lt;/del&gt;
+&lt;del&gt;Header graphic of some sort.  (what to steal, what to steal ... Maxell, I have you now!)&lt;/del&gt;
+&lt;del&gt;Cuss out guild anyway cuz this shit is taking WAY too long&lt;/del&gt;
+Noteworthy plugin (to come in next RC)
+Get a ban stick ready for anyone that rags about the color scheme
+&lt;del&gt;Blockquote problem in comments (dammit, it&#039;s always something)&lt;/del&gt;
+&lt;del&gt;Search link on back pages + custom sidebars ... err, maybe&lt;/del&gt;
+&lt;del&gt;Asides graphics&lt;/del&gt;
+&lt;del&gt;Word count to archive page (because more is always better)&lt;/del&gt;
+WTF is up with fancy tooltips now?]]></description>
+		<content:encoded><![CDATA[<p>Hiding To Do list here, plus I can test commenting.  (I so clever.)</p>
+<p><del>Tag plugin</del><br />
+<del>Recent comments in sidebar</del><br />
+<del>Archives page &#8211; ELA</del> (goddamn, those are slick!)<br />
+<del>Favatars not working for comments</del><br />
+<del>Header graphic of some sort.  (what to steal, what to steal &#8230; Maxell, I have you now!)</del><br />
+<del>Cuss out guild anyway cuz this shit is taking WAY too long</del><br />
+Noteworthy plugin (to come in next RC)<br />
+Get a ban stick ready for anyone that rags about the color scheme<br />
+<del>Blockquote problem in comments (dammit, it&#8217;s always something)</del><br />
+<del>Search link on back pages + custom sidebars &#8230; err, maybe</del><br />
+<del>Asides graphics</del><br />
+<del>Word count to archive page (because more is always better)</del><br />
+WTF is up with fancy tooltips now?</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

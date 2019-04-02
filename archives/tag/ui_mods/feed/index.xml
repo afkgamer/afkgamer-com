@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ui mods &#8211; AFK Gamer</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/tag/ui_mods/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Thu, 07 Aug 2014 11:49:50 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>Curse</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2007/07/25/curse/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2007/07/25/curse/#comments</comments>
+				<pubDate>Wed, 25 Jul 2007 13:32:51 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[ui mods]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/07/25/curse/</guid>
+				<description><![CDATA[On the tail of my mental /boggle over GuildCafe&#8217;s venture capital deal, Chris Heintz, mouthpiece for Curse.com &#8212; formerly curse-gaming.com &#8212; emailed with some details about the recent redesign of Curse.com and its own hot VC injection. I had noticed &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2007/07/25/curse/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>On the tail of my mental /boggle over GuildCafe&#8217;s venture capital deal, Chris Heintz, mouthpiece for <a href="http://www.curse.com/">Curse.com</a> &#8212; formerly curse-gaming.com &#8212; emailed with some details about the recent redesign of Curse.com and its own hot <acronym title="venture capital, this is not mafia money">VC</acronym> injection.  </p>
+<p>I had noticed Curse&#8217;s redesign earlier yesterday when I went to check on some of my World of Warcraft addons.  My reaction was something like, &#8220;hmm, another redesign at Curse.  They sure redesign alot.  If my bookmarks are broken again, I&#8217;m going to be pissed.&#8221;  But they&#8217;re not, so I&#8217;m not.</p>
+<p>Happy fun user information is in Curse&#8217;s <a href="http://news.curse.com/details/2502/">news announcement</a> and here&#8217;s the soon-to-be press release:</p>
+<blockquote><p>SAN FRANCISCO, CA &#8212; JULY (xx) 2007 &#8212; Curse Inc., the premier gaming portal dedicated to massively multiplayer online games (MMOGs) and their fan communities, today officially launched V4 of Curse.com. Formerly known as Curse-Gaming, Curse provides the most complete online resource for all MMOGs, and V4 is the ultimate destination for user-created content, communication tools, updates, add-ons and community news for MMOG players. Through a new partnership with Wikia, Inc., Curse now offers the most in-depth MMOG databases available anywhere. V4 is now live at www.curse.com. </p>
+<p>&#8220;Curse&#8217;s V4 is the most comprehensive MMO community anywhere on the internet, increasing interactivity and user-created content possibilities for players everywhere,&#8221; said Hubert Thieblot, founder and CEO of Curse Inc. &#8220;MMO gamers can come to one destination for Web 2.0 applications that were designed by MMO players with the global community in mind.&#8221;</p>
+<p>Introducing a multitude of new and unique features, V4 marks a concerted effort on the part of Curse to offer fans of MMOG&#8217;s everywhere more social networking options, enhanced interactivity and innovative new tools for creating and sharing user-created content. V4 is currently available in five languages &#8212; English, German, French, Spanish and Mandarin &#8212; with more coming soon.</p>
+<p>In addition to V4&#8217;s updated design and features, Curse&#8217;s partnership with Wikia, Inc. provides users with access to the most comprehensive MMO-related wiki databases in existence, including the extremely popular WoWWiki.com. Curse will offer all of Wikia&#8217;s MMO databases, complete in every language Curse supports, with instantaneously up-to-date content.</p>
+<p>V4 features include:<br />
+MyCurse &#8212; “ The ultimate social networking resource for MMO players and guilds, MyCurse provides users with the ability to blog, connect with friends, share hardware profiles, in addition to uploading user-created video and screenshots<br />
+Streaming Video Posting &#8212; V4 introduces streaming video posting, enabling the MMO community to tag, rank and share user-created videos for the first time<br />
+Curse Client &#8212; Available via download on the Curse homepage, the Curse Client is a downloadable program that syncs with Vanguard and World of Warcraft allowing players to capture and post screenshots from the game client. Additionally, the Curse Client uploads character information automatically to the user&#8217;s MyCurse profile<br />
+Social Bookmarking &#8212; Users can rate any content that&#8217;s relevant to them &#8212; news, forums, blogs, items and more &#8211; shaping the collective opinion of the global audience<br />
+Mini-Portals &#8212; If you play it, Curse has a portal for you. Curse.com features  a portal for every MMO imaginable, providing even niche gamers with a resource for news, add-ons and updates for their favorite game<br />
+MMO Wikis &#8212; Thanks to a partnership with Wikia, Inc., Curse now offers its users access to the most exhaustive MMO wikis in existence. Users can find all of the content from Wikia&#8217;s extensive databases, including the comprehensive and frequently updated WoWWiki.com. </p>
+<p>To visit V4 and download the latest client, please visit www.curse.com. </p>
+<p>About Curse Inc.<br />
+Launched in 2005, by founder Hubert Thieblot of the renowned Curse guild, Curse was built by a young team of creative, innovative, tech-savvy gamers to help develop a one-stop-shop for all MMO add-on needs. Formerly Curse-Gaming.com, Curse has grown to become the most visited user-generated MMO content portal in the world. Offering gamers an unparalleled social experience revolving around their favorite games, Curse is the only portal offering video and screenshot sharing, wikis, databases, add-on downloads, social bookmarking, blogging, forums, and guild website hosting. Curse&#8217;s direct relationships with developers and publishers provide users with in-depth game resources, and add value for the community. Curse is an invaluable resource for MMO gamers. </p>
+<p>About Wikia, Inc.<br />
+Since Wikia&#8217;s launch in November 2004, more than 750,000 articles on 2,700 topics have been created and edited by over 100,000 registered users in 70 languages. In addition to working on open-source search,  Wikia is currently home to several popular gaming-related communities such as World of Warcraft at http://www.wowwiki.com,/ Final Fantasy at http://finalfantasy.wikia.com/ and Halopedia at http://halo.wikia.com/ .</p>
+<p>Wikia enables groups to share information, news, stories, media and opinions that fall outside the scope of an encyclopedia. Jimmy Wales and  Angela Beesley launched Wikia in 2004 to provide community-based wikis inspired by the model of Wikipedia &#8212; the free, open source encyclopedia founded by Jimmy Wales. </p>
+<p>Wikia is committed to openness, inviting anyone to contribute web content. Authors retain their own copyrights and allow others to freely reuse their content under a variety of GNU and Creative Commons Licenses, allowing widespread distribution of knowledge and ideas.(xx) [&#8230;]</p></blockquote>
+<p>Now that&#8217;s a venture capital investment I can understand.  They have the UI mods, they have some wowwiki synergy, they have the traffic.  Profit!</p>
+<p>UPDATE:  <a href="http://mashable.com/2007/07/26/curse-funded/">$5 million</a>.  Interesting.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2007/07/25/curse/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+							</item>
+		<item>
+		<title>Rupture</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2007/02/27/rupture/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2007/02/27/rupture/#comments</comments>
+				<pubDate>Tue, 27 Feb 2007 16:10:43 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[ui mods]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/02/27/rupture/</guid>
+				<description><![CDATA[(Yet) another (newish) social networking site for gamers: Rupture. From the site: &#8220;Rupture connects you with the real people you play with online. Rupture allows you to automatically publish your character and guild profiles, share pictures, chat with friends and &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2007/02/27/rupture/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>(Yet) another (newish) social networking site for gamers:  <a href="http://www.rupture.com/">Rupture</a>.  From the site:  &#8220;Rupture connects you with the real people you play with online. Rupture allows you to automatically publish your character and guild profiles, share pictures, chat with friends and recruit new people to play with.&#8221;  Currently in friends &#038; family beta, requires a client install to link with your game stats/activities, only supporting World of Warcraft at the moment (more planned in the future) &#8212; looks like a ramped-up profiler.  </p>
+<p>Which could be nice, except I don&#8217;t want anyone seeing what it&#8217;s my bags (still have some snowballs and preserved holly in there &#8212; holly can&#8217;t be used on flying mounts, by the way.  I already tried) and <strong>especially</strong> not my bank.  </p>
+<p>I&#8217;m something of a poor talker in game &#8212; &#8220;No, I&#8217;m sorry I can&#8217;t lend you 500 gold, I barely have enough for repairs.  Who are you again?&#8221;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2007/02/27/rupture/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+							</item>
+		<item>
+		<title>This AV Queue Stinks</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2006/12/28/this-av-queue-stinks/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2006/12/28/this-av-queue-stinks/#comments</comments>
+				<pubDate>Thu, 28 Dec 2006 14:44:59 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[pvp]]></category>
+		<category><![CDATA[ui mods]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/12/28/this-av-queue-stinks/</guid>
+				<description><![CDATA[There&#8217;s a lively Warcraft forum discussion about the addon, StinkyQueue, which syncs the Alterac Valley queueing for a group of players &#8212; y&#8217;know, instead of counting down in Ventrilo or Team Speak, &#8220;3 2 1 GO!&#8221; I&#8217;m more of a &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/12/28/this-av-queue-stinks/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>There&#8217;s a lively Warcraft forum discussion about the addon, StinkyQueue, which syncs the Alterac Valley queueing for a group of players &#8212; y&#8217;know, instead of counting down in Ventrilo or Team Speak, &#8220;3 2 1 GO!&#8221;  I&#8217;m more of a &#8220;ready, set, GO!&#8221; person, but that&#8217;s beside the point.  (Forum thread:  <a href="http://forums.worldofwarcraft.com/thread.html?topicId=59332929&#038;sid=1">Is this illegal? &#8230;</a> )</p>
+<p>We&#8217;ve used it with moderate success.  It&#8217;s about as reliable as doing the &#8220;3 2 1 GO!&#8221; thing.  I&#8217;m not a fan of huge guild AV PVP; I prefer sync-queueing with one or two other guildmates and causing trouble at a graveyard or a tower.  But if you&#8217;re so inclined, it&#8217;s a nice way to streamline the queueing.</p>
+<p>No blue response yet on that thread, and I have no idea if it&#8217;s &#8220;illegal&#8221; or not, but I&#8217;d be willing to bet Blizzard isn&#8217;t happy about it &#8212; that mod has NERF written all over it.</p>
+<p>Find the addon:<br />
+<a href="http://wow.curse-gaming.com/en/files/details/4563/stinkyqueue/">StinkyQueue</a><br />
+<a href="http://wow.curse-gaming.com/en/files/details/5513/improved-stinkyqueue/">Improved StinkyQueue</a></p>
+<p><small>Archive of <a href="http://www.furl.net/search?search=cache&#038;id=14654486&#038;url=http%3A%2F%2Fforums.worldofwarcraft.com%2Fthread.html%3Bjsessionid%3D9D84CCFFD989D6A94AAA49548FCECF99%3FtopicId%3D59332929%26sid%3D1">&#8220;Is this Illegal? &#8230;&#8221;</a>, page 1</small></p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2006/12/28/this-av-queue-stinks/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+							</item>
+		<item>
+		<title>Decursing:  Another Minigame within the Game!</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2006/10/11/decursing-another-minigame-within-the-game/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2006/10/11/decursing-another-minigame-within-the-game/#comments</comments>
+				<pubDate>Wed, 11 Oct 2006 18:44:12 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[ui mods]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/10/11/decursing-another-minigame-within-the-game/</guid>
+				<description><![CDATA[By now, every World of Warcraft player and his (or her) imaginary girlfriend (or sex toy) has heard about the impending removal of auto-targeting type mods from the game, ala Decursive. (Link to a good central thread with other links &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/10/11/decursing-another-minigame-within-the-game/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>By now, every World of Warcraft player and his (or her) imaginary girlfriend (or sex toy) has heard about the impending removal of auto-targeting type mods from the game, ala Decursive.  (Link to a <a href="http://forums.worldofwarcraft.com/thread.html?topicId=32277853">good central thread</a> with other links for you to chase.)  Blizzard dripping tree, Drysc, summarizes the official position:  &#8220;The general run-down is that we don&#8217;t want UI mods to be making combat decisions for a player, it should be in their hands and their responsibility to choose who and when to interact with the game. It borders on automation of gameplay, which is something we&#8217;re obviously very opposed to. Aside from that moral separation it ends up defeating the purpose of the challenges we&#8217;re implementing. With the release of the expansion and the game changing in some huge ways, it was the best opportunity to remove specific UI mod abilities.&#8221;  Which, to me, could mean either:  A. We decided AE curse encounters were stupid and are taking the game in a different direction, chillax noobs, or B. We still don&#8217;t learn from our predecessors&#8217; mistakes.  Since players are given only half the story &#8230; again &#8230;, I s&#8217;pose we&#8217;ll decide either:  A.  That wasn&#8217;t so bad, or B.  God, that was stupid.  (ALSO, could we get a firm fucking date on this expansion?  Six-ish weeks away and we&#8217;re still guessing on live date?)  (<strong>Archive:</strong>  <a href="http://furl.net/search?search=cache&#038;id=12406656&#038;url=http%3A%2F%2Fforums.worldofwarcraft.com%2Fthread.html%3FtopicId%3D32277853%26sid%3D1">Player/Blizzard comments on disabling Decursive</a>)</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2006/10/11/decursing-another-minigame-within-the-game/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+							</item>
+		<item>
+		<title>No, The Damn Servers Aren&#8217;t Up Yet, Sheesh</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2006/08/22/no-the-damn-servers-arent-up-yet-sheesh/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2006/08/22/no-the-damn-servers-arent-up-yet-sheesh/#respond</comments>
+				<pubDate>Tue, 22 Aug 2006 13:35:04 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[guilds]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[pvp]]></category>
+		<category><![CDATA[screenshots]]></category>
+		<category><![CDATA[ui mods]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/08/22/no-the-damn-servers-arent-up-yet-sheesh/</guid>
+				<description><![CDATA[Ajido (Samuell) is claiming the title &#8220;freakin evil genius&#8221; for his Warcraft guild name. (Future generations: this is a spoof on the recently released movie, Snakes on a Plane, starring Samuel L. Jackson. I have to say that or else &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/08/22/no-the-damn-servers-arent-up-yet-sheesh/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/afkgamer/221956701/" title="Photo Sharing"><img src="http://static.flickr.com/79/221956701_02913e1cb7_m.jpg" width="149" height="240" alt="Steaks on a Plain" class="alignleft" /></a> Ajido (Samuell) is claiming the title <a href="http://forums.worldofwarcraft.com/thread.aspx?fn=wow-general&#038;t=9576908&#038;p=1&#038;tmp=1#post9576908">&#8220;freakin evil genius&#8221; for his Warcraft guild name</a>.  (Future generations:  this is a spoof on the recently released movie, <em>Snakes on a Plane</em>, starring Samuel L. Jackson.  I have to say that or else I&#8217;ll see this a year later and wonder why I ever thought this was hilarious.)</p>
+<p>In another thread, Camule, of an unknown realm (because the forum logins are messed right now for maintenance), asked players to recount their World of Warcraft sins and transgressions in <a href="http://forums.worldofwarcraft.com/thread.aspx?fn=wow-general&#038;t=9599329">&#8220;What&#8217;s the worse thing you&#8217;ve ever done in game?&#8221;</a>, amply proving that human beings are not of divine origin.  Thank you for that, because I still had some hope.</p>
+<p>Looking at the <a href="http://www.worldofwarcraft.com/pvp/battlegrounds/battlegroups.html">battlegroups for the cross-server battlegrounds</a>, I see that my server will be grouped with my former SWG guild&#8217;s server.  (Later, I&#8217;ll go trash talk on their boards to start building a little rivalry.)  I expect that initially, my current guild will get our asses handed to us by the PVP-realm crowd, but I&#8217;m confident that with some minimal practice, superior gear will win the day.  Of course, I will claim this is SKILL because I do have an ego.</p>
+<p>Lastly, desperate for a Patch 1.12 mirror?  <a href="http://www.wowwiki.com/Patch_mirrors">Seek and ye shall find</a> at WoWWiki.  (<strong>WoW Raiders</strong>:  Update your <a href="http://ctmod.net/">CT-RaidAssist</a> also.  Don&#8217;t annoy your guild, like my guildmates will, by waiting until five minutes before the scheduled raid start time to do this.)</p>
+<p>Official Patch 1.12 notes after jump:</p>
+<p><span id="more-1194"></span><strong>Drums of War</strong></p>
+<p><strong>Cross-Realm Battlegrounds</strong></p>
+<p>      For the first time in the history of World of Warcraft, you will be able to face off against players from other realms in the Battlegrounds. PvP Battlegrounds link Alterac Valley, Warsong Gulch, and Arathi Basin so that players from several realms will be combined into one huge matchmaking pool. Replenish your mana, sharpen your blades, and get ready for some brand-new challengers! </p>
+<p><strong>World PvP</strong></p>
+<p>      The stage is set for intense, objective-based land battles as Horde and Alliance vie for control over important strategic positions and resources around Azeroth. Head out for Silithus and Eastern Plaguelands to engage the enemy on the field! </p>
+<p><strong>General</strong></p>
+<p>    * Threat Reduction Effects<br />
+          o This system has been redesigned to eliminate inconsistency in how the effects work. Previously, some were additive (for example: 30% reduction + 20% reduction = 50% reduction) while others were multiplicative (30% reduction and 20% reduction made 44% reduction, from 0.7*0.8). They are now all multiplicative. This also prevents unpredictable behavior when the total reduction percentage was equal to or greater than 100%. Please note that in almost all cases, when stacking multiple threat reduction effects you will experience less threat reduction than previously.<br />
+    * Haste and Slow effects<br />
+          o Previously Haste and Slow effects worked inconsistently, with spells working differently from weapons, and hastes and slows not acting as inverses of each other. We have revised the system so that all haste and slow effects work the same way, and haste and slow percentages of the same magnitude perfectly cancel each other out (30% haste and 30% slow combine to no change). As a result, we had to change the tooltip numbers on all spell haste effects, and on all melee and range slow effects. The numbers in the tooltips are different, but the game functionality is unchanged (other than slight rounding errors). Those tooltips that changed will now display larger numbers than they used to display. Conceptually, haste values indicate how much more of that activity you can perform in a given time. 30% melee haste means 30% more swings in a given time. Slow values indicate how much longer an activity takes to complete. 30% slow means an action takes 30% longer to finish.<br />
+    * The deserter debuff will now continue to expire even while you are offline.<br />
+    * Honorable Kills now diminish at a rate 10% per kill rather than 25% per kill. </p>
+<p><strong>Druids</strong></p>
+<p>    * Barkskin: The tooltip has been changed to 25% due to the haste effect change.<br />
+    * Cat Form: This form now has an innate threat reduction component.<br />
+    * Ferocious Bite: Book of Ferocious Bite (Rank 5) now drops off The Beast in Black Rock Spire. In addition, Ferocious Bite now increases in potency with greater attack power.<br />
+    * Furor: This talent now works correctly with Cat Form again.<br />
+    * Improved Shred: The discounted cost for Shred will now be displayed correctly even when you are not in Cat Form.<br />
+    * Rip: Lesser potency Rips will no longer overwrite greater potency ones.<br />
+    * Fixed a bug where the incorrect sound was being played by the Claw attack. </p>
+<p><strong>Hunters</strong></p>
+<p>    * Spirit Bond: This ability will now be correctly reapplied when you resurrect in a battleground and your pet is polymorphed or otherwise unable to act normally.<br />
+    * Improved Concussive Shot: The effect of this talent will now still be placed on the victim if the hunter is killed before their shot reaches the target.<br />
+    * Growl now correctly initiates combat when used by a pet in passive mode.<br />
+    * The Ferocity talent now correctly applies to non-physical hunter pet abilities such as Lightning Breath and Thunderstomp.<br />
+    * If a hunter has tamed one of the following creature types, they will no longer potentially change colors if resummoned:<br />
+          o Son of Hakkar &#8211; Red<br />
+          o Frenzied Bloodseeker Bat &#8211; Brown<br />
+          o Deep Stinger &#8211; Red<br />
+          o Dark Screecher &#8211; Gray<br />
+          o Cave Creeper &#8211; Brown<br />
+          o Bloodaxe Worg &#8211; Black<br />
+          o Scarshield Worg -Brown </p>
+<p><strong>Mages</strong></p>
+<p>    * Arcane Missiles: It is no longer possible to cast this spell on an evading mob. In addition, the animation will now stop when the target is dead.<br />
+    * Arcane Power: It is no longer possible to gain the benefit of this spell and Power Infusion at the same time by careful timing.<br />
+    * Frost Armor Chilled effect: Due to the haste effect change, the tooltip has been changed to 25%.<br />
+    * Ice Armor Chilled effect: Due to the haste effect change, the tooltip has been changed to 25%.<br />
+    * Ignite: The effect of this talent will now still be placed on the victim if the caster is killed before their spell reaches the target.<br />
+    * Impact: The effect of this talent will now still be placed on the victim if the caster is killed before their spell reaches the target.<br />
+    * Frostbite: The effect of this talent will now still be placed on the victim if the caster is killed before their spell reaches the target.<br />
+    * Polymorph: This spell will now be removed when a player leaves a battleground. This prevents some bugs involving polymorph from occurring.<br />
+    * Evocation will no longer be usable while silenced.<br />
+    * Reduced the number of messages that appear in the combat log when using Combustion.<br />
+    * Winter&#8217;s Chill: The effect of this talent will now still be placed on the victim if the caster is killed before their spell reaches the target. </p>
+<p><strong>Paladins</strong></p>
+<p>    * Divine Shield: Due to the haste effect change, the tooltip has been changed to 100%. </p>
+<p><strong>Priests</strong></p>
+<p>    * Mind Control: Due to the haste effect change, the tooltip has been changed to 25%.<br />
+    * Psychic Scream: This spell now uses the same resistance checks as the Warlock spell Fear.<br />
+    * Spirit of Redemption: Fixed an issue preventing Twisting Nether from retriggering when the Spirit of Redemption effect runs out. </p>
+<p><strong>Rogues</strong></p>
+<p>    * Due to significant talent changes, Rogues will have all talent points refunded and can be re-spent. Training costs for all talent spell replacements have been significantly reduced.<br />
+    * Vanish now removes effects that allow the caster to always remain aware of their target (currently Hunter&#8217;s Mark and Mind Vision).<br />
+    * Pickpocket can now be used on targets that are in combat, as long as the rogue remains stealthed.<br />
+    * All manner of rogue reagents can be found in locked junkboxes (obtained from pickpocketing).<br />
+    * Fixed a bug where the Slice and Dice ability wasn&#8217;t playing an animation.<br />
+    * Lethargy Root has been removed from poison vendors and is now a gray item.<br />
+    * Reduced the number of messages in the combat log when using the Vanish ability.<br />
+    * Fixed a bug that made Combo Points disappear from your target when using Vanish.<br />
+    * Eviscerate: Manual of Eviscerate (Rank 9) now drops off Blackhand Assassins in Black Rock Spire. In addition, Eviscerate now increases in potency with greater attack power.<br />
+    * Garrote: The damage from this ability has been increased. In addition, Garrote now increases in potency with greater attack power.<br />
+    * Relentless Strikes: This ability will no longer trigger when your finishing move does not hit your target.<br />
+    * Rupture: Rupture now increases in potency with greater attack power.<br />
+    * Sap: Enemy rogues will now always lose stealth when you Sap them. </p>
+<p><strong>Shaman</strong></p>
+<p>    * Reincarnation should now display the cooldown timer when used.<br />
+    * Chain Heal &#8211; After the initial target is healed, the healing effect will jump to the most damaged target (by absolute health) within range. In addition, if a raid member is the initial target it will look for valid raid targets to jump to rather than non-raid targets as a priority, making it consistent with group targeted Chain Heals.<br />
+    * Lightning Shield: Air Bubble pockets in underwater regions will no longer consume a charge from this spell. </p>
+<p><strong>Warlocks</strong></p>
+<p>    * Cripple (Doomguard): Due to haste effect change, the tooltip has been changed to 45%.<br />
+    * Curse of Tongues: This spell will no longer debuff the target if they are immune to the spellcast slowing effect<br />
+    * Enslave Demon: Due to haste effect change, the tooltip has been changed to 40%.<br />
+    * Health Funnel: This spell will now work correctly on low-level enslaved demons.<br />
+    * Howl of Terror: This spell now uses the same resistance checks as the Warlock spell Fear.<br />
+    * Siphon Life will now properly gain a benefit from Shadow Mastery.<br />
+    * A soul shard will be refunded to the caster any time a summoned pet despawns rather than dies.<br />
+    * Aftermath: The effect of this talent will now still be placed on the victim if the caster is killed before their spell reaches the target.<br />
+    * Improved Shadowbolt: The effect of this talent will now still be placed on the victim if the caster is killed before their spell reaches the target.<br />
+    * Life Tap: This spell now benefits from effects which increase your spell damage. At rank 3 and above, the base amount of health lost and mana gained will increase by 80% of your bonus spell damage effects. Talents and items can further modify those values. Rank 1 and 2 receive reduced effect. </p>
+<p><strong>Warriors</strong></p>
+<p>    * Bloodthirst: This ability will now correctly benefit from attack power bonuses versus specific creature types.<br />
+    * Flurry: The text on the tooltip has been corrected to indicate it triggers on all types of attacks.<br />
+    * Shield Slam: This ability will sometimes no longer remove more than one beneficial effect from the target.<br />
+    * Thunderclap: This ability was left at 10% despite the haste effect changes. This means its potency has been reduced slightly. </p>
+<p><strong>Items</strong></p>
+<p>    * +30 Spell Damage Enchantment: Fixed a bug with this enchantment which was preventing it from benefiting healing spells.<br />
+    * Blade of Eternal Darkness: The triggered effect from this weapon will no longer occur when the spell being cast has its effect broken by causing damage.<br />
+    * Blazefury Medallion: The triggered effect from this item will no longer break Gouge.<br />
+    * Bonescythe Armor: The Eviscerate bonus will no longer trigger when your Eviscerate does not hit your target.<br />
+    * Darkmoon Card- Twisting Nether: The dialog for this resurrection will now always reappear after the Spirit of Redemption effect has completed.<br />
+    * Earthfury Set: The mana refund effect can now only occur once per Healing Wave spell cast.<br />
+    * Earthshatter Set: The Lightning Shield bonus will now be removed if you lose the set bonus.<br />
+    * Eye of the Dead: Holy Shock now interacts properly with this item.<br />
+    * Ranged Elemental Damage: Our ranged combat system does not allow a ranged weapon to do a mix of Elemental (Fire, Frost, Arcane, etc.) and Physical damage. Many ranged weapons existed which were listed as doing Elemental damage and did not function properly (the damage was dealt, but was treated as Physical). All of those weapons have been changed to deliver the Elemental damage as a chance on hit effect. Hurricane was previously changed this way in 1.11. The following ranged weapons are also fixed in 1.12: Bow of Searing Arrows, Dwarven Hand Cannon, Heartseeking Crossbow, Dark Iron Rifle, Galgann&#8217;s Fireblaster, Quillshooter, Shell Launcher Shotgun, Venomstrike, and Verdant Keeper&#8217;s Aim.<br />
+    * Talisman of Ascendance: This item will no longer trigger from physical damage effects. In addition, if either of the buffs from the item are canceled, they will both be canceled.<br />
+    * Talisman of Ascendance: Holy Shock heals will now trigger the effect from this trinket.<br />
+    * Zandalarian Hero Charm: Item tooltip corrected to match the effect tooltip.<br />
+    * The Items that summon mounts have been changed in their color/quality. Items that summon normal mounts are now blue(superior)items and items that summon swift mounts are now purple(epic) items.<br />
+    * Fixed a bug that allowed you to use items which restored health or mana while you were already full health or mana.<br />
+    * Fixed a bug with the Jom Gabbar trinket which was causing it to trigger a category cooldown for a duration longer than intended.<br />
+    * Wrath of Cenarius: This item will now trigger from Arcane Missiles.<br />
+    * Clarified the tooltips for the Stormshroud armor and Kalimdor&#8217;s Revenge to explain that they deal Nature damage.<br />
+    * Fixed a bug that caused the Blooddrenched Mask to hide a character&#8217;s hair.<br />
+    * Warbear leather now stacks to 20.<br />
+    * Thunderfury, Blessed Blade of the Windseeker may now be equipped in either hand.<br />
+    * Argent Shoulders no longer require a righteous orb to make.<br />
+    * The cooldown timer on transforming Anathema and Benediction may no longer be circumvented by zoning or logging out. </p>
+<p><strong>Professions</strong></p>
+<p>    * Engineering: The damage from sapper charges can now be resisted. The overall DPS of the charges should not be significantly altered from what it currently is.<br />
+    * Engineering: Explosive sheep do fire damage instead of physical damage.<br />
+    * Goblin Land Mines and Compact Harvest Reapers will no longer lock out using other engineering devices until the land mine/reaper dies. Harvest Reaper was given a 10 min self cooldown to prevent too many reapers from being summoned at once. </p>
+<p><strong>Raids and Dungeons</strong></p>
+<p>    * Uldaman<br />
+          o Reduced the number of Shadowforge Ambushers that attack after looting the quest chest.<br />
+          o Shadowforge Ambushers are no longer elite.<br />
+          o The respawn of the Stone Stewards has been changed to 2 hours (from 30 minutes).<br />
+    * Zul&#8217;Farrak<br />
+          o The respawn of the 2 Troll/1 Basilisk patrollers should now be 2 hours.<br />
+          o Reduced the damage dealt by the Sul&#8217;lithuz Abomination and Sul&#8217;lithuz Sandcrawler.<br />
+          o Zul&#8217;Farrak Dead Heroes are no longer elites.<br />
+          o Theka the Martyr will now only remain immune to physical damage for 30 seconds before reverting to normal.<br />
+          o Antu&#8217;sul&#8217;s Sul&#8217;lithuz Broodlings now only hatch 4 at a time and are significantly weaker.<br />
+          o Witch Doctor Zum&#8217;rah will no longer call as many Zul&#8217;Farrak Zombies to his aid when aggroed.<br />
+          o Weegli Blastfuse now has slightly more hit points.<br />
+          o Antu&#8217;sul&#8217;s Warden no longer attempts to knock adventurers into Antu&#8217;sul&#8217;s lair.<br />
+          o Sandfury Cretins who engage the party during the pyramid event are no longer able to cast shadow bolt.<br />
+    * Maraudon<br />
+          o Noxxious Scions will no longer spawn when you cleanse Celebrian Vines.<br />
+    * Ruins of Ahn&#8217;Qiraj<br />
+          o Lieutenant General Andronov&#8217;s Aura of Command should no longer generate threat. This will hopefully prevent him from pulling aggro on the entire wave, leading to his untimely death.<br />
+          o Hive&#8217;Zara Hatchlings can now swim.<br />
+          o Egg Explosion will no longer burn charges from spells such as Lightning Shield.<br />
+          o It should no longer be possible for Emperor Vek&#8217;lor and Vek&#8217;nilash to Unbalancing Strike or Arcane Burst immediately after a teleport. </p>
+<p><strong>User Interface</strong></p>
+<p>          o V key functionality has been improved in several ways.<br />
+                + V key now shows summoned monsters (such as the gargoyles in Stratholme.)<br />
+                + V key now shows both monsters and player enemies.<br />
+                + V now shows enemies only (no longer shows friendly targets.)<br />
+                + Shift-V now shows friendly targets only, not enemies (with a new bindable hotkey.)<br />
+                + Control-V shows both friendly targets and enemy targets (with a new bindable hotkey.)<br />
+          o New floating combat text has been added to the game with a number of options. You can see when you take damage, when you are healed and how much, when you acquire and lose auras and much more. You can turn on the new options in the newly revised options screen.<br />
+          o There is now an option to turn on the display of your own name above your head. You can find the option in the interface options screen.<br />
+          o The Need Before Greed and Group Loot countdown timers will now have a 3 minute countdown when there is a bind on acquire item on the corpse. This should allow a bit more time in making a decision to roll for an item.<br />
+          o Automatic Quest Tracking has been added to the game and is turned on by default. Any time you advance a quest by advancing one of the requirements, the quest information will appear on your screen for 5 minutes before fading. You can turn this option off from the options screen.<br />
+          o The options screen has be redone and expanded due to space required for additional options. Also the location of various options has been changed in the options screen. They should make more sense now, though they will not be in quite the place you remember them being.<br />
+          o There is now a confirmation dialogue when you attempt to disband your guild.<br />
+          o When you destroy a superior quality (blue) or better item, you will get a dialogue that has you confirm deletion of that item.<br />
+          o Raid Pullout frames are now created on demand and will not take up any memory if you are not using them.<br />
+          o The player inspect range has been increased to 10 yards.<br />
+          o New API Functions<br />
+                + Add-ons can send hidden chat messages to players in the party, raid or guild, using SendAddonMessage(&#8220;prefix&#8221;, &#8220;message&#8221;, &#8220;PARTY&#8221;|&#8221;RAID&#8221;|&#8221;GUILD&#8221;|&#8221;BATTLEGROUND&#8221;). When players receive these messages, a new event &#8220;CHAT_MSG_ADDON&#8221; is sent, with arg1-arg3 being the parameters to SendAddonMessage(), and arg4 being the name of the player that sent it. The combined length of &#8220;prefix&#8221; and &#8220;message&#8221; must be less than or equal to 254 bytes.<br />
+                + Added UnitPlayerOrPetInParty() and UnitPlayerOrPetInRaid(). </p>
+<p><strong>Bug Fixes</strong></p>
+<p>          o Fixed a bug that caused some non-combat pets to be referred to as Minions instead of Pets. Mini Diablo however has escaped this fate and will continue to be referred to as a Minion.<br />
+          o Fixed a bug that was causing Ice Block to trigger a 5 minute cooldown on the Gnomish Cloaking Device.<br />
+          o Summon Dreadsteed no longer briefly puts you into combat.<br />
+          o Chain-targeted abilities cast by creatures no longer hit stealthed or invisible players.<br />
+          o Will of the Forsaken is no longer gray on the action bar while you are charmed.<br />
+          o Fixed a bug where large amounts of damage could go negative.<br />
+          o Non-combat pets are no longer affected by environmental damage.<br />
+          o The dressing room window will remain open and functional while zoning.<br />
+          o Fixed a bug allowing linked combat groups to be split when pathing fails.<br />
+          o Soul Link will persist across instance boundaries.<br />
+          o Item bonuses, buffs, and enchants will no longer be lost when swapping an equipped item with another equipped item.<br />
+          o Stats will no longer fluctuate when putting points into stat improving talents.<br />
+          o Devouring Plague will continue to heal the caster after the target is Mind Controlled.<br />
+          o Using /assist on a Mind Controlled target works properly now.<br />
+          o Recasting Feed Pet while using Feed Pet will reset the duration of the cast.<br />
+          o Activating passive pet abilities while targeting an opposite faction player will no longer aggro neutral town guards.<br />
+          o If a Hunter is unflagged for PvP, an enemy faction rogue won&#8217;t be able to disarm his trap.<br />
+          o Fixed a bug causing the floating combat text from a killing blow to be delayed until another unit is attacked.<br />
+          o Text with a scroll bar should no longer get clipped while in windowed mode.<br />
+          o Heals from spells such as Frenzied Regeneration will no longer close the loot window.<br />
+          o Casting a spell while a loot window containing a disenchantment is open will autoloot the item.<br />
+          o Pet spells can now be toggled in the pet spell book.<br />
+          o Grand Widow Faerlina&#8217;s Rain of Fire no longer damages players outside the area of effect.<br />
+          o Players can no longer drop from combat by repeatedly placing their pet into passive mode.<br />
+      World Environment<br />
+          o Cities<br />
+                + Neutral guards are now able to see through the rogue Vanish ability.<br />
+          o Silithus<br />
+                + Tortured Druids and Sentinels will now call only one Hive&#8217;Ashi drone on death. </p>
+<p><strong>Mac</strong></p>
+<p>          o Added support for controlling iTunes from within World of Warcraft. You can bind a set of keys for play/pause, next track, back track and volume up and down. </p>
+<p><small><strong>Archived thread:</strong>  <a href="http://www.furl.net/search?search=cache&#038;id=11261892&#038;url=http%3A%2F%2Fforums.worldofwarcraft.com%2Fthread.aspx%3Ffn%3Dwow-general%26t%3D9599329">What&#8217;s the worse thing &#8230;</a> </small></p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2006/08/22/no-the-damn-servers-arent-up-yet-sheesh/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Stupid Questions Do Exist</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2006/08/15/stupid-questions-do-exist/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2006/08/15/stupid-questions-do-exist/#respond</comments>
+				<pubDate>Tue, 15 Aug 2006 15:57:06 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[ui mods]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/08/15/stupid-questions-do-exist/</guid>
+				<description><![CDATA[When World of Warcraft&#8217;s next patch, 1.12, goes live, the corresponding update to CT-RaidAssist, the raiding UI mod of champions, will no longer be backwards compatible with previous versions. (Read: ctmod.net, news item dated 7/22/06) If your guild is anything &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/08/15/stupid-questions-do-exist/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>When World of Warcraft&#8217;s next patch, 1.12, goes live, the corresponding update to CT-RaidAssist, the raiding UI mod of champions, will no longer be backwards compatible with previous versions.  (Read:  <a href="http://www.ctmod.net/news.ct">ctmod.net</a>, news item dated 7/22/06)  If your guild is anything like my guild, your typical raid is a patchwork of CT-RaidAssist versions because upgrading every once in a while is a huge chore for some people.  I know it&#8217;s a chore for me answering the same upgrade question every week (/gu Christ Almighty, YOU DONT HAVE IT INSTALLED IN THE CORRECT PATH.)  Anticipating that this will take an hour or more to straighten out on patch day, we&#8217;ve begun warning guildmates that everyone (Yes, even you Billy.  You too, Mikey.) will need CT-RaidAssist version 1.54 by raid time.  My favorite /gu followup question of the last couple weeks:  When will they patch 1.12?  Me:  (fercrissakes)  I don&#8217;t know, you&#8217;d have to ask one of the Blizzard developers in the guild.  Followup #2:  We have developers in the guild?</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2006/08/15/stupid-questions-do-exist/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Now We Hate Patch 1.10</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2006/03/09/now-we-hate-patch-110/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2006/03/09/now-we-hate-patch-110/#comments</comments>
+				<pubDate>Thu, 09 Mar 2006 22:33:30 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[Noteworthy]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[patches]]></category>
+		<category><![CDATA[quests]]></category>
+		<category><![CDATA[ui mods]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/03/09/now-we-hate-patch-110/</guid>
+				<description><![CDATA[And I had such high hopes for World of Warcraft&#8217;s Patch 1.10, the Patch that Would Save the Game! Didn&#8217;t take long &#8212; a few days after the test realm players had time to get their hands dirty, just about &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/03/09/now-we-hate-patch-110/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>And I had such high hopes for World of Warcraft&#8217;s Patch 1.10, the Patch that Would Save the Game! </p>
+<p>Didn&#8217;t take long &#8212; a few days after the test realm players had time to get their hands dirty, just about everyone is pissed about something.  </p>
+<p><strong>New Non-raider Epics</strong>.  This is the gear that was added on the fly to Patch 1.10 to quell the rising shitstorm.  (I&#8217;m guessing about that &#8220;on the fly&#8221;, the shitstorm is not a guess.) </p>
+<p><em>What People Hate:</em>  <a href="http://forums.worldofwarcraft.com/thread.aspx?fn=wow-general&#038;t=7357025">New (even) lower raid limits on the Tier 0 Instances</a> &#8212; those are your Scholo, the Strath twins, Blackrock Depths (BRD) and the two Blackrock Spires (UpperBRS/LowerBRS) areas.  BRS limited to 10-man, all the others will be 5-man.  </p>
+<p>Translation:  This time when you run these dungeons over and over again for your Tier 0 gear, you&#8217;re REALLY going to want a solid tank and healer.</p>
+<p>The revamped Tier Crap instances will have new bosses, better drop rates and improved loot.  Which is good, because you must have your Tier 0 set to turn in for the new epic set.  You vendored it?  Disenchanted maybe?  Oh.  Bummer.</p>
+<p>(Seriously, just start raiding Molten Core, Blackwing Lair and Ahn&#8217;Queer.  Life will be so much easier for you then.)</p>
+<p>Here&#8217;s more from authorized Blizzard posters on the Dungeon changes:  <a href="http://forums.worldofwarcraft.com/thread.aspx?fn=wow-general&#038;t=7357773&#038;tmp=1#post7357773">90-minute runs</a>, <a href="http://forums.worldofwarcraft.com/thread.aspx?fn=wow-general&#038;t=7357367&#038;tmp=1#post7357367">start re-farming Dungeon 1 pieces</a>, <a href="http://forums.worldofwarcraft.com/thread.aspx?fn=wow-general&#038;t=7359264&#038;tmp=1#post7359264">dungeon sets are class specific</a>.</p>
+<p><em>What Foton Hates</em>:  Nothing.  I&#8217;m in a raid guild so I dodged that bullet.  Funny how that works out, huh?  Being serious though, I&#8217;ve stopped asking, &#8220;WHY?? WHY??&#8221;, when it comes to design decisions.  There often is no why.</p>
+<p><span id="more-1022"></span><strong>Priest Revamped Talents</strong>.  This is really what Patch 1.10 was about, redoing the Priest talents and, we hope, fixing that abyssmal Holy tree, giving Priests something to do besides log on for raids or &#8230; or &#8230; or respec&#8217;ing to shadow.  </p>
+<p>Here&#8217;s <a href="http://forums.worldofwarcraft.com/thread.aspx?fn=wow-priest&#038;t=648886&#038;p=1&#038;tmp=1#post648886">the official thread with the proposed Priest changes</a> and the <a href="http://www.worldofwarcraft.com/info/classes/priests2/talents.html">updated Priest talent calculator</a>.  Cheers, congratulations and hearty handshakes all around.  </p>
+<p><em>What People Hate</em>:  Wow, I&#8217;m not sure where to begin.  They like the new Holy Nova.  They&#8217;re not real fond of Lightwell, the bandage on a 10 minute cooldown that costs priest mana and adds to priest hate.  Ya, hi, I have max first aid skill, keep that Lightwell in your pocket, thx.</p>
+<p>Here&#8217;s some articulate player posts about the priest changes:  <a href="http://forums.worldofwarcraft.com/thread.aspx?fn=wow-priest&#038;t=698578">How to change Lightwell</a> and <a href="http://forums.worldofwarcraft.com/thread.aspx?fn=wow-priest&#038;t=698923">Party Fouls in 1.10</a>.</p>
+<p><em>What Foton Hates</em>:  Listen, I hate anything the priests tell me to hate.  I&#8217;m a healer asskisser from way back.  Healers aren&#8217;t happy, ain&#8217;t nobody happy.  Consider that an axiom.  </p>
+<p>I realize that tuning healers is not easy, to say the least, but stop fucking around and give them their due.</p>
+<p><strong>Disabled UI Mods</strong>.  Patch 1.10 disables some of the &#8220;hooks&#8221; used by the more popular mods, which may or may not be intentional since they rarely respond to any threads that don&#8217;t start off with &#8220;I &lt;3 Blizzard&#8221;.  In particular, any function attached to a movement key appears to have been nuked.  </p>
+<p><em>What People Hate</em>:  First, they hate not getting an answer.  Since that&#8217;s not going to change, here&#8217;s <a href="http://www.wowwiki.com/Broken_Addons_0.10:_Repair_and_Reporting">a list of addons that are broken in Patch 1.10</a> (banned/blocked/busted).  The WoW Wiki also has responses from mod developers on their progress in restoring the former functionality.</p>
+<p>(CTRaidAssist users, stand down.  Cide to the rescue:  &#8220;&#8230;CT_RaidAssist is by no means blocked. It hooked a function that no longer can be hooked, which results in the &#8220;Blocked&#8221; message. It&#8217;s an easy fix, and I have already fixed it on Test. It&#8217;ll work just fine as soon as we release an update.&#8221;)</p>
+<p>Lastly, I&#8217;m thinking people really hate not getting a straight answer.</p>
+<p><em>What Foton Hates</em>:  I hate not getting a straight answer.</p>
+<p>Ok, now the fun part.  Any wagers on how fast they&#8217;ll push Patch 1.10 to live?  how much downtime for hotfixes/server crashes?  how much forum screaming?  And the million-dollar question:  Will this patch attract or drive away our priests?  </p>
+<p>(March 28th, 3 hours on 3/28, it will be thunderous, they&#8217;ll be happier post-1.10 but not ecstatic.)</p>
+<p><small><strong>Above Links Archived by Furl:</strong><br />
+<a href="http://www.furl.net/search?search=cache&#038;id=7360969&#038;url=http%3A%2F%2Fforums.worldofwarcraft.com%2Fthread.aspx%3Ffn%3Dwow-general%26t%3D7357025">Lower raid limits</a><br />
+<a href="http://www.furl.net/search?search=cache&#038;id=7461317&#038;url=http%3A%2F%2Fforums.worldofwarcraft.com%2Fthread.aspx%3Ffn%3Dwow-general%26t%3D7357773%26tmp%3D1%23post7357773">90-minute runs</a><br />
+<a href="http://www.furl.net/search?search=cache&#038;id=7461339&#038;url=http%3A%2F%2Fforums.worldofwarcraft.com%2Fthread.aspx%3Ffn%3Dwow-general%26t%3D7357367%26tmp%3D1%23post7357367">Refarm Dungeon 1 pieces</a><br />
+<a href="http://www.furl.net/search?search=cache&#038;id=7461348&#038;url=http%3A%2F%2Fforums.worldofwarcraft.com%2Fthread.aspx%3Ffn%3Dwow-general%26t%3D7359264%26tmp%3D1%23post7359264">Dungeon sets are class-specific</a><br />
+<a href="http://www.furl.net/search?search=cache&#038;id=7211978&#038;url=http%3A%2F%2Fforums.worldofwarcraft.com%2Fthread.aspx%3FFN%3Dwow-priest%26T%3D648886%26P%3D1">Proposed Priest talent changes</a><br />
+<a href="http://www.furl.net/search?search=cache&#038;id=7461370&#038;url=http%3A%2F%2Fforums.worldofwarcraft.com%2Fthread.aspx%3Ffn%3Dwow-priest%26t%3D698578">How to change Lightwell</a><br />
+<a href="http://www.furl.net/search?search=cache&#038;id=7461384&#038;url=http%3A%2F%2Fforums.worldofwarcraft.com%2Fthread.aspx%3Ffn%3Dwow-priest%26t%3D698923%26p%3D1%26tmp%3D1%23post698923">Party fouls in 1.10</a><br />
+<a href="http://www.furl.net/search?search=cache&#038;id=7461398&#038;url=http%3A%2F%2Fwww.wowwiki.com%2FBroken_Addons_0.10%3A_Repair_and_Reporting">WoW Wiki&#8217;s list of broken addons</a></small></p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2006/03/09/now-we-hate-patch-110/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+							</item>
+		<item>
+		<title>CTProfiles</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2006/03/09/ctprofiles/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2006/03/09/ctprofiles/#comments</comments>
+				<pubDate>Thu, 09 Mar 2006 14:57:50 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[ui mods]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/03/09/ctprofiles/</guid>
+				<description><![CDATA[I&#8217;m going to mock discuss Warcraft&#8217;s Patch 1.10 today, so while I work on that, you can go check out the new CTProfiles, brought to you by the makers of CTRaid, the raiding mod of champions. Yes! It&#8217;s like Magelo &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/03/09/ctprofiles/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>I&#8217;m going to <del datetime="2006-03-09T22:25:38+00:00">mock</del> discuss Warcraft&#8217;s Patch 1.10 today, so while I work on that, you can go check out the new <a href="http://www.ctprofiles.net/">CTProfiles</a>, brought to you by the makers of CTRaid, the raiding mod of champions.  Yes!  It&#8217;s like Magelo for Warcraft &#8212; track your current gear, dream gear, your test gear, talents, etc.  We need one profiler to rule them all, not 45 profilers spread all over the web.  I&#8217;m hoping this is it cuz I&#8217;m tired of looking for The One.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2006/03/09/ctprofiles/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+							</item>
+		<item>
+		<title>A Huggler&#8217;s World of Warcraft</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2006/02/27/a-hugglers-world-of-warcraft/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2006/02/27/a-hugglers-world-of-warcraft/#comments</comments>
+				<pubDate>Mon, 27 Feb 2006 13:13:31 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[screenshots]]></category>
+		<category><![CDATA[ui mods]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/02/27/a-hugglers-world-of-warcraft/</guid>
+				<description><![CDATA[Were you thinking of changing your Warcraft UI? Maybe you&#8217;d want to get something like this. Ok. Maybe not.]]></description>
+								<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/afkgamer/105237282/" title="Photo Sharing"><img src="http://static.flickr.com/38/105237282_4549be5d74.jpg" width="500" height="375" alt="ange's ui" /></a></p>
+<p>Were you thinking of changing your Warcraft UI?  Maybe you&#8217;d want to get something like this.</p>
+<p>Ok.  Maybe not.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2006/02/27/a-hugglers-world-of-warcraft/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+		<item>
+		<title>Improve Your Identity</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2006/02/16/improve-your-identity/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2006/02/16/improve-your-identity/#comments</comments>
+				<pubDate>Thu, 16 Feb 2006 20:42:56 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[ui mods]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/02/16/improve-your-identity/</guid>
+				<description><![CDATA[I ran across a Warcraft mod that I hadn&#8217;t heard of before: flagRSP, an addon for additional naming options for your characters (surnames, titles) and an enhanced friends list. The naming options are visible to anyone else running the same &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/02/16/improve-your-identity/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>I ran across a Warcraft mod that I hadn&#8217;t heard of before:  <a href="http://www.curse-gaming.com/mod.php?addid=1028">flagRSP</a>, an addon for additional naming options for your characters (surnames, titles) and an enhanced friends list.  The naming options are visible to anyone else running the same mod.  I don&#8217;t really understand why surnames and titles are so popular in online gaming, I just know they are, and while I don&#8217;t like to run a lot of mods (bloat and all that), I would like my own title:  Lord of the Idiots.  Briefly, I toyed with the idea of making an alt Oneeye, King of the Blind, but LotI could apply to any of my current characters.  (<a href="http://www.flokru.org/flagrsp/">home page for flagRSP</a>, <a href="http://sourceforge.net/projects/wars/">home page for successor mod WARS</a>, mod found in this <a href="http://forums.worldofwarcraft.com/thread.aspx?fn=wow-general&#038;t=7147880">WoW forum thread</a> authored by newly ordained minister, Federov.  It&#8217;s a long-ish story.)</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2006/02/16/improve-your-identity/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+							</item>
+	</channel>
+</rss>

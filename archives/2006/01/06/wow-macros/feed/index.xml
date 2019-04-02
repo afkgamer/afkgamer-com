@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: WoW Macros	</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/2006/01/06/wow-macros/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/archives/2006/01/06/wow-macros/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Tue, 28 Feb 2017 12:33:23 +0000	</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+			<item>
+				<title>
+				By: Warfoxe				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2006/01/06/wow-macros/comment-page-1/#comment-184811</link>
+		<dc:creator><![CDATA[Warfoxe]]></dc:creator>
+		<pubDate>Tue, 02 Dec 2008 19:04:10 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/01/06/wow-macros/#comment-184811</guid>
+					<description><![CDATA[Trying to create an wow macro for ads in chat, which I want to loop over and over...
+
+example &#062; 
+
+&quot;To be or not to be&quot;
+
+20 sec later
+
+&quot;To be or not to be&quot;
+
+
+Could someone help me with this]]></description>
+		<content:encoded><![CDATA[<p>Trying to create an wow macro for ads in chat, which I want to loop over and over&#8230;</p>
+<p>example &gt; </p>
+<p>&#8220;To be or not to be&#8221;</p>
+<p>20 sec later</p>
+<p>&#8220;To be or not to be&#8221;</p>
+<p>Could someone help me with this</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: TIllison				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2006/01/06/wow-macros/comment-page-1/#comment-11461</link>
+		<dc:creator><![CDATA[TIllison]]></dc:creator>
+		<pubDate>Sun, 03 Dec 2006 00:27:09 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/01/06/wow-macros/#comment-11461</guid>
+					<description><![CDATA[Thanks]]></description>
+		<content:encoded><![CDATA[<p>Thanks</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: uruloki				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2006/01/06/wow-macros/comment-page-1/#comment-2308</link>
+		<dc:creator><![CDATA[uruloki]]></dc:creator>
+		<pubDate>Mon, 09 Jan 2006 15:06:29 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/01/06/wow-macros/#comment-2308</guid>
+					<description><![CDATA[Just trying to fulfill the blog slave obligations &#039;O Evil Master Foton!]]></description>
+		<content:encoded><![CDATA[<p>Just trying to fulfill the blog slave obligations &#8216;O Evil Master Foton!</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

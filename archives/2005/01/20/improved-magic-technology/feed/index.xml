@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Improved Magic Technology	</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/2005/01/20/improved-magic-technology/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/archives/2005/01/20/improved-magic-technology/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Tue, 28 Feb 2017 12:33:23 +0000	</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+			<item>
+				<title>
+				By: Zhaneel				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2005/01/20/improved-magic-technology/comment-page-1/#comment-96</link>
+		<dc:creator><![CDATA[Zhaneel]]></dc:creator>
+		<pubDate>Fri, 21 Jan 2005 17:26:38 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2005/01/20/improved-magic-technology/#comment-96</guid>
+					<description><![CDATA[The porters are from alpha/early beta.  Before there were boats.  Dunno what bugs could be related, but it &quot;solid&quot; tech, in that it is instance.  No more waiting for boats!  Just have to wait for everyone to talk to boat guy for instant movement.]]></description>
+		<content:encoded><![CDATA[<p>The porters are from alpha/early beta.  Before there were boats.  Dunno what bugs could be related, but it &#8220;solid&#8221; tech, in that it is instance.  No more waiting for boats!  Just have to wait for everyone to talk to boat guy for instant movement.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: UnionCarbide				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2005/01/20/improved-magic-technology/comment-page-1/#comment-94</link>
+		<dc:creator><![CDATA[UnionCarbide]]></dc:creator>
+		<pubDate>Fri, 21 Jan 2005 11:10:54 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2005/01/20/improved-magic-technology/#comment-94</guid>
+					<description><![CDATA[Bugs can have unusual effects, and can cause problems in unexpected places.  One game I worked on (let&#039;s call it. . . Urban Simulation Sequel) had a problem where placing pipes in a certain configuration would cause a memory leak that would make a completely unrelated module of the game cough and die.
+
+It&#039;s possible (judging from what they said in the post and my observations of how the servers are behaving)  that there&#039;s a slow memory leak in the boat code, possibly based on the act of transferring the characters from one server to another.  Each leak may be small, but when piled on top of one another they eventually start affecting server stability.  This could explain why the extremely popular servers (e.g. Blackrock) crash early and often while not-so-popular servers (e.g. Crushridge) aren&#039;t having many problems at all.
+
+Most likely, though, I&#039;m getting my information from the Federal Department of Colo-Rectal Information Retrieval.  :)]]></description>
+		<content:encoded><![CDATA[<p>Bugs can have unusual effects, and can cause problems in unexpected places.  One game I worked on (let&#8217;s call it. . . Urban Simulation Sequel) had a problem where placing pipes in a certain configuration would cause a memory leak that would make a completely unrelated module of the game cough and die.</p>
+<p>It&#8217;s possible (judging from what they said in the post and my observations of how the servers are behaving)  that there&#8217;s a slow memory leak in the boat code, possibly based on the act of transferring the characters from one server to another.  Each leak may be small, but when piled on top of one another they eventually start affecting server stability.  This could explain why the extremely popular servers (e.g. Blackrock) crash early and often while not-so-popular servers (e.g. Crushridge) aren&#8217;t having many problems at all.</p>
+<p>Most likely, though, I&#8217;m getting my information from the Federal Department of Colo-Rectal Information Retrieval.  🙂</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

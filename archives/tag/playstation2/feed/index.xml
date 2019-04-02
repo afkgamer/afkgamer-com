@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>playstation 2 &#8211; AFK Gamer</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/tag/playstation2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Thu, 07 Aug 2014 11:49:50 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>Gaming Heals</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2005/06/28/gaming-heals/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2005/06/28/gaming-heals/#comments</comments>
+				<pubDate>Tue, 28 Jun 2005 19:50:14 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[playstation 2]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/?p=534</guid>
+				<description><![CDATA[In the July 2005 National Geographic, the main feature covers stem cell research. (link to online excerpt) On page 4 of the print edition (so you&#8217;ll have to go to the library or the doctor) is a poignant photograph of &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2005/06/28/gaming-heals/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>In the July 2005 <em>National Geographic</em>, the main feature covers stem cell research.  (<a href="http://www7.nationalgeographic.com/ngm/0507/feature1/index.html">link to online excerpt</a>)  On page 4 of the print edition (so you&#8217;ll have to go to the library or the doctor) is a poignant photograph of 11-year-old David Dalmat, who is banished to a sterile &#8220;bubble&#8221; until his bone marrow regrows.  In his hands, a Playstation 2 controller.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2005/06/28/gaming-heals/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+	</channel>
+</rss>

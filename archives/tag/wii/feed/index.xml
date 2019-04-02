@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wii &#8211; AFK Gamer</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/tag/wii/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Thu, 07 Aug 2014 11:49:50 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>Nintendo Customer Adventure Island</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2007/02/16/nintendo-customer-adventure-island/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2007/02/16/nintendo-customer-adventure-island/#comments</comments>
+				<pubDate>Fri, 16 Feb 2007 13:26:44 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[nintendo]]></category>
+		<category><![CDATA[wii]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/02/16/nintendo-customer-adventure-island/</guid>
+				<description><![CDATA[I thought this type of service was the stuff of myth and legend: Customer service gone shockingly right. Summary: Family purchases Nintendo Wii on launch day, optical drive deteriorates, Nintendo invites family and the errant Wii to the Nintendo campus &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2007/02/16/nintendo-customer-adventure-island/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>I thought this type of service was the stuff of myth and legend:  <a href="http://fiendishgleeclub.vox.com/library/post/customer-service-gone-shockingly-right.html">Customer service gone shockingly right</a>.  Summary:  Family purchases Nintendo Wii on launch day, optical drive deteriorates, Nintendo invites family and the errant Wii to the Nintendo campus for a quick exchange.  Screenshots or it didn&#8217;t happen?  Ha!  Photos included.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2007/02/16/nintendo-customer-adventure-island/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+	</channel>
+</rss>

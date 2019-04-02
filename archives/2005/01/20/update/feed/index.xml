@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Update	</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/2005/01/20/update/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/archives/2005/01/20/update/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Tue, 28 Feb 2017 12:33:23 +0000	</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+			<item>
+				<title>
+				By: Abalieno				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2005/01/20/update/comment-page-1/#comment-97</link>
+		<dc:creator><![CDATA[Abalieno]]></dc:creator>
+		<pubDate>Fri, 21 Jan 2005 23:09:08 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2005/01/20/update/#comment-97</guid>
+					<description><![CDATA[No, they do not check /bug because that command was disabled since the end of the closed beta.]]></description>
+		<content:encoded><![CDATA[<p>No, they do not check /bug because that command was disabled since the end of the closed beta.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Saccia				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2005/01/20/update/comment-page-1/#comment-95</link>
+		<dc:creator><![CDATA[Saccia]]></dc:creator>
+		<pubDate>Fri, 21 Jan 2005 16:46:58 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2005/01/20/update/#comment-95</guid>
+					<description><![CDATA[Ya forgot to mention that the blue text that did finally appear has all of the intelligence of a cinderblock of murloc dung.  WTF?  So all that&#039;s been confirmed here is that Blizz does check the forums and /bug on occassion but that the pot smoke is so thick in the green room that they can&#039;t fucking read the screen.]]></description>
+		<content:encoded><![CDATA[<p>Ya forgot to mention that the blue text that did finally appear has all of the intelligence of a cinderblock of murloc dung.  WTF?  So all that&#8217;s been confirmed here is that Blizz does check the forums and /bug on occassion but that the pot smoke is so thick in the green room that they can&#8217;t fucking read the screen.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

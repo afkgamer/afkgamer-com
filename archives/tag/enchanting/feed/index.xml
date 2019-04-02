@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>enchanting &#8211; AFK Gamer</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/tag/enchanting/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Thu, 07 Aug 2014 11:49:50 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>The Enchanting Racket</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2007/12/12/the-enchanting-racket/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2007/12/12/the-enchanting-racket/#comments</comments>
+				<pubDate>Wed, 12 Dec 2007 16:45:31 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[enchanting]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[tradeskills]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/12/12/the-enchanting-racket/</guid>
+				<description><![CDATA[Since I&#8217;ve been camping the World of Warcraft Auction House lately for the enchanting materials to pimp some new weapons, I found this discussion on the WoW Forums both interesting and amusing: Why people are so CHEAP with Enchanters ? &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2007/12/12/the-enchanting-racket/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>Since I&#8217;ve been camping the World of Warcraft Auction House lately for the enchanting materials to pimp some new weapons, I found this discussion on the WoW Forums both interesting and amusing:  <a href="http://forums.worldofwarcraft.com/thread.html?topicId=3271186426&#038;sid=1&#038;pageNo=1">Why people are so CHEAP with Enchanters ?</a></p>
+<p>The original post:</p>
+<blockquote><p>I mean, people buy mats that cost around 150-200 gold, and they said they are screwed up when the Enhanter ask for a five gold tip&#8230;</p></blockquote>
+<p>I don&#8217;t know about the enchanting racket on other realms, but on my realm it&#8217;s like organized crime.  </p>
+<p>The mats alone off the AH are 436 gold, average, x 2 (thx rogue) = 872 gold.  </p>
+<p>They want to know why we&#8217;re not more generous with tips?  Because they&#8217;re already into me for 800+ gold from the materials I just bought via their auctions.</p>
+<p>P.S.  Yes, I know enchanting is expensive to level.<br />
+Yes, my guild&#8217;s enchanters do our enchants for free, no tipping allowed.<br />
+Yes, I do tip non-guild enchanters, but I grumble to myself and dream of the day when I can pickpocket player characters.  Wouldn&#8217;t that be a great bug?  I&#8217;d never log off.<br />
+Yes, my server is outrageous with pricing.<br />
+No, none of that makes me feel better.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2007/12/12/the-enchanting-racket/feed/</wfw:commentRss>
+		<slash:comments>49</slash:comments>
+							</item>
+	</channel>
+</rss>

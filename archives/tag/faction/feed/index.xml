@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>faction &#8211; AFK Gamer</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/tag/faction/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Thu, 07 Aug 2014 11:49:50 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>The Burning Crusade Faction Game</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2007/01/24/the-burning-crusade-faction-game/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2007/01/24/the-burning-crusade-faction-game/#comments</comments>
+				<pubDate>Wed, 24 Jan 2007 20:30:41 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[expansions]]></category>
+		<category><![CDATA[faction]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/01/24/the-burning-crusade-faction-game/</guid>
+				<description><![CDATA[One of the most asked questions in World of Warcraft, post-Burning Crusade, besides &#8220;where&#8217;s traitor&#8217;s cove?&#8221; and &#8220;any healers wanna go to ramparts?&#8221;, is which faction to choose in iShatt City, Aldor or Scryer? Since I don&#8217;t trust my guildmates &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2007/01/24/the-burning-crusade-faction-game/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>One of the most asked questions in World of Warcraft, post-Burning Crusade, besides &#8220;where&#8217;s traitor&#8217;s cove?&#8221; and &#8220;any healers wanna go to ramparts?&#8221;, is which faction to choose in iShatt City, Aldor or Scryer?</p>
+<p>Since I don&#8217;t trust my guildmates with anything so important as a faction choice &#8212; they would think it was hilarious for someone to choose unwisely, as would I &#8212; WoWWiki to the rescue!  If only we had wikis in the old EverQuest days, I wouldn&#8217;t have two notebooks full of notes and quest printouts.  </p>
+<p>Anyways, there&#8217;s a great table on the <a href="http://www.wowwiki.com/Aldor_vs._Scryer">Aldor vs Scryer page</a> to aid neutrals in choosing.  (As stated on the page, a table is no substitute for looking at the available rewards and deciding yourself.)</p>
+<p>Also, from the General forums, a rare spawn, the informative thread:  <a href="http://forums.worldofwarcraft.com/thread.html?topicId=70907875&#038;sid=1">&#8220;A Guide to Aldor and Scryer Rep&#8221;</a> by Adaan of Azgalor.</p>
+<p>Getting (or already have) the impression that this expansion is all about faction?  <a href="http://www.mmorpg.com/gamelist.cfm/gameId/15/setView/features/loadFeature/1079">You&#8217;re not alone</a>.  </p>
+<p>Welcome to December 2000.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2007/01/24/the-burning-crusade-faction-game/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+							</item>
+	</channel>
+</rss>

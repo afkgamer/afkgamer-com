@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Guess What	</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/2005/05/09/guess-what/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/archives/2005/05/09/guess-what/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Tue, 28 Feb 2017 12:33:23 +0000	</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+			<item>
+				<title>
+				By: Test Track  &#187; Blog Archive   &#187; Pingback trackback				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2005/05/09/guess-what/comment-page-1/#comment-863</link>
+		<dc:creator><![CDATA[Test Track  &#187; Blog Archive   &#187; Pingback trackback]]></dc:creator>
+		<pubDate>Tue, 10 May 2005 23:56:17 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2005/05/09/guess-what/#comment-863</guid>
+					<description><![CDATA[[...] ack  						 						Tuesday, May 10th, 2005 at 11:56 pm by TT  						 						 								Testing pingbacks.  						 					 						 														Trackback &#124; 							 Permalink 							   							 [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] ack  						 						Tuesday, May 10th, 2005 at 11:56 pm by TT  						 						 								Testing pingbacks.  						 					 						 														Trackback | 							 Permalink 							   							 [&#8230;]</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Foton				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2005/05/09/guess-what/comment-page-1/#comment-858</link>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+		<pubDate>Tue, 10 May 2005 02:32:31 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2005/05/09/guess-what/#comment-858</guid>
+					<description><![CDATA[ffs, think I just had kick the database.  That&#039;s goofy as hell.
+
+EDIT:  For any other WP users that have a similar feed problem when upgrading, either a new post and comment, or editing previously-posted ones, will fix the feeds.  Other than that, was an easy, troublefree upgrade.
+
+EDIT2:  Above only fixes feeds as long as there is activity w/i the last 24 hours.  Permanent fix is outlined &lt;a href=&quot;http://fernando.dubtribe.com/archives/2005/05/10/solution-to-wp151-rss-errors/&quot;&gt;here&lt;/a&gt;.]]></description>
+		<content:encoded><![CDATA[<p>ffs, think I just had kick the database.  That&#8217;s goofy as hell.</p>
+<p>EDIT:  For any other WP users that have a similar feed problem when upgrading, either a new post and comment, or editing previously-posted ones, will fix the feeds.  Other than that, was an easy, troublefree upgrade.</p>
+<p>EDIT2:  Above only fixes feeds as long as there is activity w/i the last 24 hours.  Permanent fix is outlined <a href="http://fernando.dubtribe.com/archives/2005/05/10/solution-to-wp151-rss-errors/">here</a>.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

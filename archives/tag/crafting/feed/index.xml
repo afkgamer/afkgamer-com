@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>crafting &#8211; AFK Gamer</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/tag/crafting/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Thu, 07 Aug 2014 11:49:50 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>A WoW LOL Cat</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2007/11/06/a-wow-lol-cat/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2007/11/06/a-wow-lol-cat/#comments</comments>
+				<pubDate>Wed, 07 Nov 2007 00:49:45 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[bugs]]></category>
+		<category><![CDATA[crafting]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[screenshots]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/11/06/a-wow-lol-cat/</guid>
+				<description><![CDATA[(via World of Warcraft forums: Buff Skinning? Screenshot by Gelyn, aka Herm of the Ravenholdt realm)]]></description>
+								<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/afkgamer/1895123583/" title="Photo Sharing"><img src="http://farm3.static.flickr.com/2403/1895123583_625406c1cf.jpg" width="500" height="375" alt="Dead Cats Are OP" class="center" /></a></p>
+<p>(via World of Warcraft forums:  <a href="http://forums.worldofwarcraft.com/thread.html?topicId=2766080458&#038;sid=1&#038;pageNo=1">Buff Skinning?</a>  Screenshot by Gelyn, aka Herm of the Ravenholdt realm)</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2007/11/06/a-wow-lol-cat/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+	</channel>
+</rss>

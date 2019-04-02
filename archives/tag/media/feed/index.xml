@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>media &#8211; AFK Gamer</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/tag/media/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Thu, 07 Aug 2014 11:49:50 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>WoWHead</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2007/06/25/wowhead/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2007/06/25/wowhead/#comments</comments>
+				<pubDate>Mon, 25 Jun 2007 12:58:33 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Etc.]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[media]]></category>
+		<category><![CDATA[virtual currency]]></category>
+		<category><![CDATA[warcraft]]></category>
+		<category><![CDATA[world of warcraft]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/06/25/wowhead/</guid>
+				<description><![CDATA[WoWHead, the pretty, shiny World of Warcraft item database, has been sold to the ZAM Network for over (an estimated, rumored) $1 million. WoWHead&#8217;s announcement is here, along with the now-typical rationalization for selling to former/current/speculated/who-knows-what associates of IGE, gold &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2007/06/25/wowhead/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>WoWHead, the pretty, shiny World of Warcraft item database, has been sold to the ZAM Network for over (an estimated, rumored) $1 million.  WoWHead&#8217;s announcement is <a href="http://www.wowhead.com/?wowhead-exciting-news">here</a>, along with the now-typical rationalization for selling to former/current/speculated/who-knows-what associates of IGE, gold sellers to the stars. </p>
+<p>Here&#8217;s what I say:  why rationalize?  It&#8217;s none of our business, frankly.</p>
+<p>An interesting history lesson about this and prior fan site sales, including Thottbot and Allaka-adver-popups, by Ahmed Farooq, former acquisitions dude at IGE:  <a href="http://www.techsoapbox.com/hot-off-the-presses-wowhead-sold-for-over-1-million/">&#8220;Hot off the Presses: Wowhead sold for over $1 million&#8221;</a>.</p>
+<p>Goddammit, when is somebody going to go on the record with these stories?  The truth is, I can&#8217;t figure out WHAT we&#8217;ve got and until then, I have to use lots of slashed up phrases for all the &#8220;either-or&#8217;s&#8221; like estimated/rumored/speculated and current/former/not-yet-denied.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2007/06/25/wowhead/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+							</item>
+		<item>
+		<title>I&#8217;m Flattered</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2006/11/13/im-flattered/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2006/11/13/im-flattered/#comments</comments>
+				<pubDate>Mon, 13 Nov 2006 16:21:13 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[media]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/11/13/im-flattered/</guid>
+				<description><![CDATA[A new gaming magazine that appears to be about me: AFK Magazine. I&#8217;m flattered. Much as I hate posers, how could I stay angry with a fan mag? I can&#8217;t. So, when people arrive here, thinking they&#8217;re going there, I&#8217;ll &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2006/11/13/im-flattered/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p>A new gaming magazine that appears to be about me:  <a href="http://www.afkmagazine.com/">AFK Magazine</a>.  I&#8217;m flattered.  Much as I hate posers, how could I stay angry with a fan mag?  I can&#8217;t.  So, when people arrive here, thinking they&#8217;re going there, I&#8217;ll try not to act like an emo twat who writes gushtastic <del datetime="2006-11-13T15:59:50+00:00">adverts</del> reviews about whatever game is on the media auction block that month.  I assume my fan mag will exercise similar restraint.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2006/11/13/im-flattered/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+	</channel>
+</rss>

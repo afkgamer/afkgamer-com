@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>simulations &#8211; AFK Gamer</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/tag/simulations/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Thu, 07 Aug 2014 11:49:50 +0000	</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>The Gamers Are Revolting!</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2005/10/27/the-gamers-are-revolting/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2005/10/27/the-gamers-are-revolting/#respond</comments>
+				<pubDate>Thu, 27 Oct 2005 20:34:09 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[simulations]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2005/10/27/the-gamers-are-revolting/</guid>
+				<description><![CDATA[Wired News: Sir, the Gamers Are Revolting! &#8212; Nonviolent resistance groups involved in creating the new game A Force More Powerful, a sim that recreates real-life events. No elves will be involved. Apparently, no violence either but that&#8217;s just KOOKY &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2005/10/27/the-gamers-are-revolting/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p><a href="http://wired.com/news/games/0,2101,69372,00.html?tw=wn_tophead_3">Wired News: Sir, the Gamers Are Revolting!</a> &#8212; Nonviolent resistance groups involved in creating the new game <em>A Force More Powerful</em>, a sim that recreates real-life events.  No elves will be involved.  Apparently, no violence either but that&#8217;s just KOOKY TALK!</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2005/10/27/the-gamers-are-revolting/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Zombie Infection Sim</title>
+		<link>https://afkgamer.github.io/afkgamer-com/archives/2005/09/26/zombie-infection-sim/</link>
+				<comments>https://afkgamer.github.io/afkgamer-com/archives/2005/09/26/zombie-infection-sim/#respond</comments>
+				<pubDate>Mon, 26 Sep 2005 18:33:03 +0000</pubDate>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+				<category><![CDATA[Asides]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[simulations]]></category>
+		<category><![CDATA[zombies]]></category>
+
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2005/09/26/zombie-infection-sim/</guid>
+				<description><![CDATA[Zombie Infection Sim (v3_7b) &#8212; Frankly, I suck at simulation games. My citizenry is always knocked out early, usually from lack of adequate governmental services. (hmm, seems like there could be a current events lesson there.) And true to form, &#8230; <a href="https://afkgamer.github.io/afkgamer-com/archives/2005/09/26/zombie-infection-sim/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+								<content:encoded><![CDATA[<p><a href="http://www.sothisisacomic.com/Zombie/zomb3.html">Zombie Infection Sim (v3_7b)</a> &#8212; Frankly, I suck at simulation games.  My citizenry is always knocked out early, usually from lack of adequate governmental services.  (hmm, seems like there could be a current events lesson there.)  And true to form, unless you get adequate military kicking ass and taking names, you&#8217;re sure to lose against the zombies, but this is a little sim that&#8217;s fun to lose.  (Other zombie gamelets &#8230; <a href="http://kevan.org/proce55ing/zombies/">Zombie Infection Sim v2.3</a> and <a href="http://www.urbandead.com/">Urban Dead</a>.)</p>
+]]></content:encoded>
+							<wfw:commentRss>https://afkgamer.github.io/afkgamer-com/archives/2005/09/26/zombie-infection-sim/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

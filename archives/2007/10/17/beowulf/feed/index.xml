@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Beowulf	</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/2007/10/17/beowulf/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/archives/2007/10/17/beowulf/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Tue, 28 Feb 2017 12:33:23 +0000	</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+			<item>
+				<title>
+				By: funcro				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2007/10/17/beowulf/comment-page-1/#comment-25403</link>
+		<dc:creator><![CDATA[funcro]]></dc:creator>
+		<pubDate>Wed, 17 Oct 2007 19:46:28 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2007/10/17/beowulf/#comment-25403</guid>
+					<description><![CDATA[Nothing inspires me like fat sacks of cash money.]]></description>
+		<content:encoded><![CDATA[<p>Nothing inspires me like fat sacks of cash money.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

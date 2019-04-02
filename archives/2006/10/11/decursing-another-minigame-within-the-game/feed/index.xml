@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Decursing:  Another Minigame within the Game!	</title>
+	<atom:link href="https://afkgamer.github.io/afkgamer-com/archives/2006/10/11/decursing-another-minigame-within-the-game/feed/" rel="self" type="application/rss+xml" />
+	<link>https://afkgamer.github.io/afkgamer-com/archives/2006/10/11/decursing-another-minigame-within-the-game/</link>
+	<description>Hello.  I see you.</description>
+	<lastBuildDate>
+	Tue, 28 Feb 2017 12:33:23 +0000	</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+			<item>
+				<title>
+				By: Bann				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2006/10/11/decursing-another-minigame-within-the-game/comment-page-1/#comment-10926</link>
+		<dc:creator><![CDATA[Bann]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2006 20:22:40 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/10/11/decursing-another-minigame-within-the-game/#comment-10926</guid>
+					<description><![CDATA[Actually if you read the linked thread they note several different ways in which curing could work without being totally manual. Some of them even look more promising to me than just mashing a button  over and over to cure everyone possible. 
+
+I think the panic level is drowning out the relevant information, and the fact that it&#039;s a forum/thread of primarily LUA and api changes isn&#039;t helping people who don&#039;t understand.
+
+As a priest, the first time I used Decursive and the like I knew that it would be purposely broken. The first hint was the revamp of the mana costs for curing, with this the inevitable next step. 
+
+Emergeny Monitor felt so much like cheating to me I stopped using it after a couple of weeks. It was cool from a technical perspective I thought, but it was hardly playing the game and it just upped the boredom level.
+
+Things like pulling your heals at the last moment or assessing just how big a heal you&#039;re going to need to land 3 seconds later would be second nature to a large portion of the player base (well healers anyway) if they had disabled this from the beginning.]]></description>
+		<content:encoded><![CDATA[<p>Actually if you read the linked thread they note several different ways in which curing could work without being totally manual. Some of them even look more promising to me than just mashing a button  over and over to cure everyone possible. </p>
+<p>I think the panic level is drowning out the relevant information, and the fact that it&#8217;s a forum/thread of primarily LUA and api changes isn&#8217;t helping people who don&#8217;t understand.</p>
+<p>As a priest, the first time I used Decursive and the like I knew that it would be purposely broken. The first hint was the revamp of the mana costs for curing, with this the inevitable next step. </p>
+<p>Emergeny Monitor felt so much like cheating to me I stopped using it after a couple of weeks. It was cool from a technical perspective I thought, but it was hardly playing the game and it just upped the boredom level.</p>
+<p>Things like pulling your heals at the last moment or assessing just how big a heal you&#8217;re going to need to land 3 seconds later would be second nature to a large portion of the player base (well healers anyway) if they had disabled this from the beginning.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Pwylla				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2006/10/11/decursing-another-minigame-within-the-game/comment-page-1/#comment-10897</link>
+		<dc:creator><![CDATA[Pwylla]]></dc:creator>
+		<pubDate>Thu, 12 Oct 2006 13:47:21 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/10/11/decursing-another-minigame-within-the-game/#comment-10897</guid>
+					<description><![CDATA[If they are still answering questions about this level of design, then they certainly aren&#039;t testing with any significant fervor yet.
+
+re firm fucking date - i wish my clients would let me run software releases like blizzard gets to.  For instance, i am held to a test / revision cycle that is at least 10% of the overall development time for the new release.  ITz a bitch of a wad of time, added to the nastiness of user acceptance testing and usually ends up being a nightmare of previously unthought of design cramps that lead to massive development revisions.  I wish my clients would let me just release it and work out the bugs during the following 6 mos that it is live, like blizzard does.]]></description>
+		<content:encoded><![CDATA[<p>If they are still answering questions about this level of design, then they certainly aren&#8217;t testing with any significant fervor yet.</p>
+<p>re firm fucking date &#8211; i wish my clients would let me run software releases like blizzard gets to.  For instance, i am held to a test / revision cycle that is at least 10% of the overall development time for the new release.  ITz a bitch of a wad of time, added to the nastiness of user acceptance testing and usually ends up being a nightmare of previously unthought of design cramps that lead to massive development revisions.  I wish my clients would let me just release it and work out the bugs during the following 6 mos that it is live, like blizzard does.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Askander				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2006/10/11/decursing-another-minigame-within-the-game/comment-page-1/#comment-10896</link>
+		<dc:creator><![CDATA[Askander]]></dc:creator>
+		<pubDate>Thu, 12 Oct 2006 12:18:36 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/10/11/decursing-another-minigame-within-the-game/#comment-10896</guid>
+					<description><![CDATA[&lt;blockquote&gt;could we get a firm fucking date on this expansion? Six-ish weeks away and we&#039;re still guessing on live date?&lt;/blockquote&gt;
+
+I&#039;d like to add to this:  Can we also get an answer on the availability of digital downloads FFS?]]></description>
+		<content:encoded><![CDATA[<blockquote><p>could we get a firm fucking date on this expansion? Six-ish weeks away and we&#8217;re still guessing on live date?</p></blockquote>
+<p>I&#8217;d like to add to this:  Can we also get an answer on the availability of digital downloads FFS?</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Foton				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2006/10/11/decursing-another-minigame-within-the-game/comment-page-1/#comment-10893</link>
+		<dc:creator><![CDATA[Foton]]></dc:creator>
+		<pubDate>Thu, 12 Oct 2006 04:33:29 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/10/11/decursing-another-minigame-within-the-game/#comment-10893</guid>
+					<description><![CDATA[These shifts in what is and isn&#039;t allowed are excellent examples of the gaming axiom:  If you&#039;re not at the front of the curve, you&#039;re at the back of the bus.  
+
+Nerfs are just another word for &quot;lack of imagination&quot;.
+
+EDIT:  Examples - Removal and/or &quot;tweaking&quot; of mana conserve, out-of-combat rezzing, timer on Lord V. Nefarius respawn and so on ...]]></description>
+		<content:encoded><![CDATA[<p>These shifts in what is and isn&#8217;t allowed are excellent examples of the gaming axiom:  If you&#8217;re not at the front of the curve, you&#8217;re at the back of the bus.  </p>
+<p>Nerfs are just another word for &#8220;lack of imagination&#8221;.</p>
+<p>EDIT:  Examples &#8211; Removal and/or &#8220;tweaking&#8221; of mana conserve, out-of-combat rezzing, timer on Lord V. Nefarius respawn and so on &#8230;</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Byron Ellacott				</title>
+				<link>https://afkgamer.github.io/afkgamer-com/archives/2006/10/11/decursing-another-minigame-within-the-game/comment-page-1/#comment-10890</link>
+		<dc:creator><![CDATA[Byron Ellacott]]></dc:creator>
+		<pubDate>Thu, 12 Oct 2006 01:33:45 +0000</pubDate>
+		<guid isPermaLink="false">https://afkgamer.github.io/afkgamer-com/archives/2006/10/11/decursing-another-minigame-within-the-game/#comment-10890</guid>
+					<description><![CDATA[http://forums.worldofwarcraft.com/thread.html?topicId=15401595&#038;postId=322120536&#038;sid=1#305
+
+&quot;Sort of off topic, but yes, the designers no longer have to account for decursive-style addons in their dungeon design, which was one of the biggest driving factors for these changes.&quot;
+
+Whether you /believe/ that or not is another question -- Lucifron predates Decursive, but you could argue that the anticipation of Decursive predated Lucifron.  Kind of chicken and egg, if Lucifron wasn&#039;t designed in such an asinine &quot;haha decurse or die&quot; way, decursive-style addons would likely have been a much longer time coming and definitely had much less of an impact on raiding.
+
+So personally, I think they&#039;re 100% full of shit and will continue to make &quot;haha u r ALL teh bawmb!&quot; bosses.]]></description>
+		<content:encoded><![CDATA[<p><a href="http://forums.worldofwarcraft.com/thread.html?topicId=15401595&#038;postId=322120536&#038;sid=1#305" rel="nofollow">http://forums.worldofwarcraft.com/thread.html?topicId=15401595&#038;postId=322120536&#038;sid=1#305</a></p>
+<p>&#8220;Sort of off topic, but yes, the designers no longer have to account for decursive-style addons in their dungeon design, which was one of the biggest driving factors for these changes.&#8221;</p>
+<p>Whether you /believe/ that or not is another question &#8212; Lucifron predates Decursive, but you could argue that the anticipation of Decursive predated Lucifron.  Kind of chicken and egg, if Lucifron wasn&#8217;t designed in such an asinine &#8220;haha decurse or die&#8221; way, decursive-style addons would likely have been a much longer time coming and definitely had much less of an impact on raiding.</p>
+<p>So personally, I think they&#8217;re 100% full of shit and will continue to make &#8220;haha u r ALL teh bawmb!&#8221; bosses.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>
