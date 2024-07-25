@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## AFK Gamer
 
 You can use the [editor on GitHub](https://github.com/afkgamer/afkgamer-com/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
